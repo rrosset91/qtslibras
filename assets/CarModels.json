@@ -1,0 +1,7868 @@
+[
+  {
+    "Marca": "Alfa romeo",
+    "Versão": "145",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "145"
+  },
+  {
+    "Marca": "Alfa romeo",
+    "Versão": "146",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "146"
+  },
+  {
+    "Marca": "Alfa romeo",
+    "Versão": "155",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "155"
+  },
+  {
+    "Marca": "Alfa romeo",
+    "Versão": "156",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "156"
+  },
+  {
+    "Marca": "Alfa romeo",
+    "Versão": "164 Com Aro 15",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "164"
+  },
+  {
+    "Marca": "Alfa romeo",
+    "Versão": "164 Com Aro 15",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "164"
+  },
+  {
+    "Marca": "Alfa romeo",
+    "Versão": "166",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "166"
+  },
+  {
+    "Marca": "Alfa romeo",
+    "Versão": "Gtv",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Gtv"
+  },
+  {
+    "Marca": "Alfa romeo",
+    "Versão": "Spider",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Spider"
+  },
+  {
+    "Marca": "AM General",
+    "Versão": "Hummer",
+    "(D) sem peso": "75 psi",
+    "(T) sem peso": "75 psi",
+    "(D) com peso": "75 psi",
+    "(T) com peso": "75 psi",
+    "Modelo": "Hummer"
+  },
+  {
+    "Marca": "Asia motors",
+    "Versão": "Galloper Ii",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Galloper Ii"
+  },
+  {
+    "Marca": "Asia motors",
+    "Versão": "Rocsta",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Rocsta"
+  },
+  {
+    "Marca": "Asia motors",
+    "Versão": "Topic",
+    "(D) sem peso": "43 psi",
+    "(T) sem peso": "55 psi",
+    "(D) com peso": "43 psi",
+    "(T) com peso": "55 psi",
+    "Modelo": "Topic"
+  },
+  {
+    "Marca": "Asia motors",
+    "Versão": "Towner Com 155/80R12",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Towner"
+  },
+  {
+    "Marca": "Asia motors",
+    "Versão": "Towner Com 165/70R12",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "25 psi",
+    "(T) com peso": "25 psi",
+    "Modelo": "Towner"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "80 Cabriolet",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "80"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "80 Com 195/65R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": ""
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "80 Com 205/55R16",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": ""
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A3",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "A3"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 Cabriolet",
+    "(D) sem peso": "42 psi",
+    "(T) sem peso": "42 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 Com 195/65R15",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 1.8 205/60R15",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 2 .0 Com 205/60R15",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 2.4 Com 205/60R15",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 2.8 Com 205/60R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 Com 205/55R16",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 Com 215/55R16",
+    "(D) sem peso": "42 psi",
+    "(T) sem peso": "42 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 1.8 – Com 225/45R17 ate 2002",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 2.0 – Com 225/45R17 ate 2002",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 2.0 – Com 225/45R17",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 3.0 – Com 225/45R17 ate 2002",
+    "(D) sem peso": "42 psi",
+    "(T) sem peso": "42 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 2.0 – Com 225/40R18",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 3.2 – Com 235/45R17 e 235/40R18",
+    "(D) sem peso": "8 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4 1.8T – Com 235/45R17",
+    "(D) sem peso": "42 psi",
+    "(T) sem peso": "42 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4",
+    "(D) sem peso": "42 psi",
+    "(T) sem peso": "42 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A4",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A6",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "40 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A6"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A8",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "A8"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "Allroad Quattro",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "40 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Allroad Quattro"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "Q7",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Q7"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "Rs2",
+    "(D) sem peso": "39 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Rs2"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "Rs4",
+    "(D) sem peso": "39 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Rs4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "Rs6",
+    "(D) sem peso": "39 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Rs6"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "S3",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "S3"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "S4",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "S4"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "S6 Com Aro 16",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "S6"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "S6 Com Aro 17",
+    "(D) sem peso": "44 psi",
+    "(T) sem peso": "44 psi",
+    "(D) com peso": "50 psi",
+    "(T) com peso": "50 psi",
+    "Modelo": "S6"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "S8",
+    "(D) sem peso": "40 psi",
+    "(T) sem peso": "40 psi",
+    "(D) com peso": "50 psi",
+    "(T) com peso": "50 psi",
+    "Modelo": "S8"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "Tt",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Tt"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A3 1.8 Turbo 205/55R16 91W 2006",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "A3"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A3 1.8 195/65R15 91H 2004",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "A3"
+  },
+  {
+    "Marca": "Audi",
+    "Versão": "A3 1.8T 180cv 205/55R16 91V 2006",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "A3"
+  },
+  {
+    "Marca": "Bentley",
+    "Versão": "Brooklands",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Brooklands"
+  },
+  {
+    "Marca": "Bentley",
+    "Versão": "Continental",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Continental"
+  },
+  {
+    "Marca": "Bentley",
+    "Versão": "Turbo",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Turbo"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 1 Com Aro 16",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Serie"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 1 Com Aro 17",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Serie"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 328 Cabrio",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "45 psi",
+    "Modelo": "Serie 3 328 Cabrio"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 325",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "45 psi",
+    "Modelo": "Serie 3 325"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 330 Cabrio",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "49 psi",
+    "Modelo": "Serie 3 330 Cabrio"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 Coupe",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Serie 3 Coupe"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 Compact",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Serie 3 Compact"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 318",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Serie 3 318"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 320",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Serie 3 320"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 323",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Serie 3 323"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 325",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Serie 3 325"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 328 Sedan",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Serie 3 328 Sedan"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 330 Sedan",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "49 psi",
+    "Modelo": "Serie 3 330 Sedan"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 M3",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "49 psi",
+    "Modelo": "Serie 3 M3"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 3 Touring",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Serie 3 Touring"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 525 – Com Aro 15",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Serie 5 525"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 528 – Com Aro 15",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Serie 5 528"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 528 -Com Aro 16",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "45 psi",
+    "Modelo": "Serie 5 528"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 540 – Com Aro 16",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "45 psi",
+    "Modelo": "Serie 5 540"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 540 – Com Aro 17",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "41 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Serie 5 540"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 530/545",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "45 psi",
+    "Modelo": "Serie 5 530/545"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 550",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "41 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Serie 5 550"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 M5 ate 1999",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Serie 5 M5"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 M5 ate 2004",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "41 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Serie 5 M5"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 M5",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Serie 5 M5"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 Touring – Com Aro 15",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "45 psi",
+    "Modelo": "Serie 5 Touring"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 Touring – Com Aro 16",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "45 psi",
+    "Modelo": "Serie 5 Touring"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 5 Touring – Com Aro 17",
+    "(D) sem peso": "39 psi",
+    "(T) sem peso": "42 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "51 psi",
+    "Modelo": "Serie 5 Touring"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 6",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "Serie 6"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 7 740",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "40 psi",
+    "(D) com peso": "40 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Serie 7 740"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 7 745",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "40 psi",
+    "(D) com peso": "40 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Serie 7 745"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 8 840",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Serie 8 840"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Serie 8 850",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Serie 8 850"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "X3",
+    "(D) sem peso": "42 psi",
+    "(T) sem peso": "42 psi",
+    "(D) com peso": "46 psi",
+    "(T) com peso": "51 psi",
+    "Modelo": "X3"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "X5",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "X5"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Z3 1.9",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Z3"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Z3 2.8",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Z3"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Z3 3.0/M",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Z3"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Z4 2",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Z4"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Z4 3.0/M",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Z4"
+  },
+  {
+    "Marca": "BMW",
+    "Versão": "Z8 4.9",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Z8"
+  },
+  {
+    "Marca": "Chery",
+    "Versão": "Face 1.3 175/60R14 2010",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Face"
+  },
+  {
+    "Marca": "Chery",
+    "Versão": "QQ 1.1 155/65R13 73h 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "QQ"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Astra Com 175/65R14",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Astra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Astra Com 185/60R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Astra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Astra Com 185/65R14",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Astra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Astra Com 195/60R15",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Astra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Astra Com 205/55R16",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Astra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Blazer Com 225/75R15",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Blazer"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Blazer Com 235/75R15",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Blazer"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Blazer Com 235/70R16",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Blazer"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "C-20",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "45 psi",
+    "(T) com peso": "50 psi",
+    "Modelo": "C-20"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Calibra 2.0 16V",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "Calibra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Celta",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "25 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Celta"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Classic",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Classic"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Picape",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Corsa Picape"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Picape",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Corsa Picape"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Hatch – Com 165/70R13 ate 2002",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "25 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Sedan – Com 165/70R13 ate 2002",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Hatch/Sedan – Com 175/65R14 ate 2002",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Hatch/Sedan – Com 185/60R14 ate 2002",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Hatch/Sedan – Com 165/70R13 desde 2003",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Hatch/Sedan – Com 175/65R14 desde 2003",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Hatch/Sedan – Com 185/60R14 desde 2003",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Wagon",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Corsa Wagon"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "D-20",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "45 psi",
+    "(T) com peso": "50 psi",
+    "Modelo": "D-20"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Grand Blazer",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "46 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Grand Blazer"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Ipanema",
+    "(D) sem peso": "25 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "27 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Ipanema"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Kadett Com Aro 13",
+    "(D) sem peso": "25 psi",
+    "(T) sem peso": "24 psi",
+    "(D) com peso": "27 psi",
+    "(T) com peso": "27 psi",
+    "Modelo": "Kadett"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Kadett Com Aro 14",
+    "(D) sem peso": "25 psi",
+    "(T) sem peso": "24 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Kadett"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Meriva Com 175/70R14",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Meriva"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Meriva Com 185/60R15",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Meriva"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Montana 1.8 8V Flexpower",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Montana"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Monza Com Aro 13",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Monza"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Monza Com Aro 14",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Monza"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Omega Com 195/65R15",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Omega"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Omega Com 205/60R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Omega"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Omega Com 215/60R16",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Omega"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Prisma",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Prisma"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "S-10 Com 225/75R15",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "S-10"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "S-10 Com 205/75R15",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "S-10"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "S-10 Com 235/75R15",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "S-10"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "S-10 Com 235/70R16",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "S-10"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Silverado",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "45 psi",
+    "(T) com peso": "50 psi",
+    "Modelo": "Silverado"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Space Van",
+    "(D) sem peso": "42 psi",
+    "(T) sem peso": "55 psi",
+    "(D) com peso": "60 psi",
+    "(T) com peso": "65 psi",
+    "Modelo": "Space Van"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Suprema",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "Suprema"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Tigra",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Tigra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Tracker",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Tracker"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Vectra Com 185/70R14- Exceto Elite",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Vectra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Vectra Com 195/60R15- Exceto Elite",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "24 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Vectra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Vectra Com 205/55R16- Exceto Elite",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "24 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Vectra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Vectra Elite",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Vectra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Veraneio",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Veraneio"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Zafira",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Zafira"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Montana 1.8 Com 185/60R15 2005",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Montana"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Vectra GT-X 215/45R17 91V",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Vectra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Celta 1.0 8v 165/70R13 2002",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "25 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Celta"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Wind 145/80R13 1996",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "25 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Classic 1.0 8v 165/70R13 79T 2010",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Classic"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Cruze 1.8 225/50R17 94V 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Cruze"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Captiva 3.6 V6 235/60R17 2011",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Captiva"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Vectra Elite 225/45R17 94W 2006",
+    "(D) sem peso": "0 psi",
+    "(T) sem peso": "0 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Vectra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Meriva 1.8 175/70R14 84T 2002",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Meriva"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Agile 1.4 LTZ 185/60R15 88H 2012",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Agile"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Vectra GLS 195/65R15 91H 1997",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "24 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Vectra"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Celta Spirit 1.0 165/70R13 79T 2005",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "25 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Celta"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Prisma LT1.4 175/65R14 82H 2012",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Prisma"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Prisma Joy 1.4 175/65R14 82H 2009",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Prisma"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Wagon GLS 1.6 8V 185/60R14 82H 2001",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Ipanema 1.8 175/70R13 82T 1996",
+    "(D) sem peso": "25 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "27 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Ipanema"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Celta Flexpower 1.0 165/70R13 79T 2007",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "25 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Celta"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Opala 250S 195/70R14 91T 1978",
+    "(D) sem peso": "25 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Opala"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Tracker 2.0 235/60R16 100H 2008",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Tracker"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Prisma LT 1.4 175/65R14 82H 2012",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Prisma"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Onix LT 1.0 185/70R14 88H 2013",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Onix"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Prisma Max 1.4 175/65R14 82T 2011",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Prisma"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Celta 1.0 Spirit 165/70R13 79T 2005",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Celta"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Onix LT 1.0 185/70R14 88H 2012",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Onix"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Monza SL/E 2.0 álcool 185/70R13 86T 1988",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "25 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Monza"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Celta LT 165/70R13 79T 2013",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Celta"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Agile LTZ 1.4 Flex 185/60R15 Pirelli P7 88H XL 2010",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Agile"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Celta LT 165/70R13 79T 2013",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Celta"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Montana 1.8 Sport 185/60R15 88T XL 2005",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Montana"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Celta FLEX 1.0 165/70R13 79T 2012",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Celta"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Celta 1.0 165/70R13 79T 2012",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Celta"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Onix Lt 1.4 185/65R15 88H 2014",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Onix"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Spin LT 2013 195/65R15 91H 2012",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Spin"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Classic LS 165/70R13 79T 2009",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Classic"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Prisma Max 1.4 175/65R14 82T 2007",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Prisma"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Onix Lt 1.0 185/70R14 88H 2013",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Onix"
+  },
+  {
+    "Marca": "Chrysler",
+    "Versão": "300C",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "300C"
+  },
+  {
+    "Marca": "Chrysler",
+    "Versão": "300M",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "300M"
+  },
+  {
+    "Marca": "Chrysler",
+    "Versão": "Caravan",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Caravan"
+  },
+  {
+    "Marca": "Chrysler",
+    "Versão": "Grand Caravan",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Grand Caravan"
+  },
+  {
+    "Marca": "Chrysler",
+    "Versão": "Neon",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Neon"
+  },
+  {
+    "Marca": "Chrysler",
+    "Versão": "Pt Cruiser",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Pt Cruiser"
+  },
+  {
+    "Marca": "Chrysler",
+    "Versão": "Sebring",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Sebring"
+  },
+  {
+    "Marca": "Chrysler",
+    "Versão": "Stratus",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Stratus"
+  },
+  {
+    "Marca": "Chrysler",
+    "Versão": "Stratus",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Stratus"
+  },
+  {
+    "Marca": "Chrysler",
+    "Versão": "Viper",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Viper"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Ax",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "27 psi",
+    "(T) com peso": "27 psi",
+    "Modelo": "Ax"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Berlingo 175/65R14 82T",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Berlingo"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C2",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "C2"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C3",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "C3"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C3 Pluriel",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "C3 Pluriel"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C4",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "C4"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C5",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "C5"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C6",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "C6"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C8",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "C8"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Evasion",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Evasion"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Jumper Com 195/70R15",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "60 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "60 psi",
+    "Modelo": "Jumper"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Jumper Com 205/70R15",
+    "(D) sem peso": "39 psi",
+    "(T) sem peso": "65 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "65 psi",
+    "Modelo": "Jumper"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Jumper Com 205/75R15",
+    "(D) sem peso": "39 psi",
+    "(T) sem peso": "65 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "65 psi",
+    "Modelo": "Jumper"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Saxo",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Saxo"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Xantia",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Xantia"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Xm Hatch",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "27 psi",
+    "Modelo": "Xm Hatch"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Xm Wagon",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Xm Wagon"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Xsara Hatch",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Xsara Hatch"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Xsara Wagon",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Xsara Wagon"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Xsara Picasso",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Xsara Picasso"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Zx Com 175/65R14",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Zx"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Zx Com 185/60R14",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Zx"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "Zx Com 195/55R15",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Zx"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C4 Pallas 215/55R16 93V",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "C4"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C4 Hatch Sport 2.0 205/55R16 91V 2011",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "C4"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C4 VTR 2.0 195/65R15 91H 2007",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "C4"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C4 VTR 195/65R15 91H 2007",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "C4"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C3 1.6 16v 185/60R15 84H 2005",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "C3"
+  },
+  {
+    "Marca": "Citroen",
+    "Versão": "C5 Exclusive 2.0 16V 195/65R15 91V 2003",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "C5"
+  },
+  {
+    "Marca": "Cross lander",
+    "Versão": "244",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "244"
+  },
+  {
+    "Marca": "Cross lander",
+    "Versão": "330",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "330"
+  },
+  {
+    "Marca": "Crysler",
+    "Versão": "PT Cruiser Sedan 205/55R16 91H 2010",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "PT Cruiser Sedan"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Applause",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Applause"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Charade",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Charade"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Cuore",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Cuore"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Feroza",
+    "(D) sem peso": "23 psi",
+    "(T) sem peso": "23 psi",
+    "(D) com peso": "23 psi",
+    "(T) com peso": "23 psi",
+    "Modelo": "Feroza"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Gran Move",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Gran Move"
+  },
+  {
+    "Marca": "Daihatsu",
+    "Versão": "Terios",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Terios"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Espero",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Espero"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Lanos",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Lanos"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Leganza",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Leganza"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Nubira",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Nubira"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Prince",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Prince"
+  },
+  {
+    "Marca": "Daewoo",
+    "Versão": "Super Salon",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Super Salon"
+  },
+  {
+    "Marca": "Dodge",
+    "Versão": "Dakota",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Dakota"
+  },
+  {
+    "Marca": "Dodge",
+    "Versão": "Ram Picape",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "40 psi",
+    "(D) com peso": "60 psi",
+    "(T) com peso": "70 psi",
+    "Modelo": "Ram Picape"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "360",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "27 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "360"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "456",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "456"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "456M",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "456M"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "550 Maranello",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "550 Maranello"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "575M Maranello",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "575M Maranello"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "612",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "612"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "Enzo",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Enzo"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "F355",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "27 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "F355"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "F430",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "F430"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "F50",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "F50"
+  },
+  {
+    "Marca": "Ferrari",
+    "Versão": "F512 M",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "F512 M"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Brava",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Brava"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Coupe",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Coupe"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Doblo",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Doblo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Doblo Adventure",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Doblo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Doblo Cargo",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Doblo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Ducato",
+    "(D) sem peso": "56 psi",
+    "(T) sem peso": "60 psi",
+    "(D) com peso": "56 psi",
+    "(T) com peso": "60 psi",
+    "Modelo": "Ducato"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Duna",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Duna"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Elba",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Elba"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Fiorino",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Fiorino"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Idea",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Idea"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Idea Adventure",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Idea Adventure"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Marea – Exceto Turbo",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Marea"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Marea Turbo",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Marea"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio Hatch",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio Com Aro 13",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio Equipada Com Aros 14",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio Equipada Com Aros 15",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio Adventure",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Punto",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Punto"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Siena Com Aro 13",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Siena"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Siena Equipada Com Aros 14",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Siena"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Siena Equipada Com Aros 15",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Siena"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Stilo Com Aro 15",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Stilo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Stilo Equipada Com Aros 16",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Stilo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Stilo Equipada Com Aros 17",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Stilo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Strada",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Strada"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Tempra",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Tempra"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Tipo Com 175/65R14",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Tipo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Tipo Com 185/65R14",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Tipo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Tipo Com 195/60R14",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Tipo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Uno Com 145/80R13",
+    "(D) sem peso": "24 psi",
+    "(T) sem peso": "24 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Uno"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Uno Com 165/70R13",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Uno"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Uno Com 185/60R14",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Uno"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio 1.4 8V ELX 175/65R14 2006",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Uno Mille Way Mille Way 175/70R13 2012",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Uno"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "500 185/55R15 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "500"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Siena 1.8 8V HLX 175/70R14 84T 2007",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Siena"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Uno Mille 145/80R13 75T 2004",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Uno"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Punto 195/60R15 88H",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Punto"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Punto Essence 1.6 16V Flex 195/55R16 87V",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Punto"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Freemont 225/65R17 2011",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Freemont"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Stilo 1.8 215/50R17 91V 2010",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Stilo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio 1.6 16v Weekend Stile 175/70R14 88H XL 2001",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio 16v 175/65R14 82H 2000",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Siena 1.4 Flex 175/70R14 88T 2007",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Siena"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Uno Mille 1.0 145/80R13 75T 1991",
+    "(D) sem peso": "24 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "25 psi",
+    "(T) com peso": "27 psi",
+    "Modelo": "Uno"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Strada Adventure 1.8 175/80R14 88T 2004",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Strada"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio Attractive 1.0 175/65R14 82V 2012",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio 1.4 175/65R14 82T 2013",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Bravo Essence 215/45R17 91V 2011",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Bravo"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Strada Fire 1.4 175/70R14 88T XL 2012",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Strada"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Palio Attractive 1.0 175/65R14 82T 2012",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "PALIO ELX 1.3 175/65R14 82T 2005",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Palio"
+  },
+  {
+    "Marca": "Fiat",
+    "Versão": "Strada Fire 1.4 175/70R14 88T XL 2011",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Strada"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Courier",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Courier"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Ecosport",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Ecosport"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Escort Com 155/70R13",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Escort"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Escort Com 175/70R13",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Escort"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Escort Com Aro 14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Escort"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Explorer",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Explorer"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "F-1000",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "F-1000"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "F-250 Com 235/85R16",
+    "(D) sem peso": "45 psi",
+    "(T) sem peso": "40 psi",
+    "(D) com peso": "50 psi",
+    "(T) com peso": "80 psi",
+    "Modelo": "F-250"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "F-250 Com 265/75R16",
+    "(D) sem peso": "40 psi",
+    "(T) sem peso": "40 psi",
+    "(D) com peso": "45 psi",
+    "(T) com peso": "70 psi",
+    "Modelo": "F-250"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Fiesta Hatch – Com Aro 13",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Fiesta"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Fiesta Sedan – Com Aro 13",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Fiesta"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Fiesta 1.0 – Com 175/65R14",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "24 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Fiesta"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Fiesta 1.3- Com 175/65R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Fiesta"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Fiesta 1.4 – Com 175/65R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Fiesta"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Fiesta 1.6 – Com 175/65R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Fiesta"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Focus",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Focus"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Fusion",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Fusion"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Ka Com Aro 13",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "24 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Ka"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Ka Com Aro 14",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Ka"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Mondeo",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Mondeo"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Pampa",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Pampa"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Ranger Com Aro 14",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Ranger"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Ranger Equipada Com Aros 15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Ranger"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Ranger Equipada Com Aros 16",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Ranger"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Royale",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Royale"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Taurus",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Taurus"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Verona",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Verona"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Versailles",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Versailles"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Ranger XL LT235/75R15 104/101S 2003",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "50 psi",
+    "Modelo": "Ranger"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Focus 195/60R15 88H 2009",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Focus"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Fusion 2.3 SEL P225/50R17 93V 2008",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Fusion"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Ranger 2.5 Gasolina 4×2 LT235/75R15 104R 1999",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "45 psi",
+    "(T) com peso": "50 psi",
+    "Modelo": "Ranger"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Fusion SEL 2.5 225/50R17 98V XL 2010",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Fusion"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Fiesta Rocam Hatch 1.6 175/65R14 82H 2012",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Fiesta"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Focus Hatch GLX 205/55R16 91V 2012",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Focus"
+  },
+  {
+    "Marca": "Ford",
+    "Versão": "Landau Landau 215/70R15 1979",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Landau"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Hatch Maxx 175/65R14 82T 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Celta VHC 1.0 165/70R13 79T 2003",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "25 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Celta"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Kadet GL 185/70R13 86T 1996",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Kadet"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "CORSA SUPER 175/70R13 82T 1997",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "25 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "CORSA"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Corsa Hatch 1.4 175/65R14 82T 2011",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Corsa"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Agile LTZ 185/60R15 88H 2009",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Agile"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Agile LTZ 185/60R15 88H XL 2009",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Agile"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Onix 1.0 LT 185/70R14 88H 2013",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Onix"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Versão": "Captiva Sport V6AWD 235/60R17 100H 2011",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Captiva"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Accord",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Accord"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic Coupe – Com 175/70R13",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic Coupe – Com 185/65R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic Crx",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic Hatch – Com 175/70R14",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic Hatch – Com 195/60R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic Hatch – Com 195/55R15",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic Sedan – Com 185/65R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic Sedan – Com 185/65R15",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic Sedan – Com 205/55R16",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic Sedan – Com 205/55R17",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Cl",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Cl"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "CRV",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "CRV"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Fit",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Fit"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Legend",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Legend"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Odyssey",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Odyssey"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Prelude",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Prelude"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic LX 1.6 185/65R14 85T 1999",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "City 1.5 16v 185/55R16 83H 2009",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "City"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "New Fit LX 1.4 175/65R15 84T 2009",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "New"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic LX 1.7 185/65R15 88H 2002",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "City DX 175/65R15 84H 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "City"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Fit Ex 185/55R16 83V 2010",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Fit"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "FIT LXL 1.4 175/65R14 82T 2005",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "FIT"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Fit EX 1.5 16V 175/65R14 82T 2008",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Fit"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "New Fit 1.5 Manual 185/55R16 83H 2010",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "New"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Accord LX 2.0 215/60R16 95H 2009",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Accord"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Fit 1.5 EX 175/65R14 82T 2006",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Fit"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "City LX 1.5 Aut 175/65R15 84T 2012",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "City"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Fit LX 175/65R14 82T 2007",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Fit"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "City LX 175/65R15 84T 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "City"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "City LX 1.5 Automático 175/65R15 84H 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "City"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "City EX 185/55R16 83H 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "City"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "City Dx 175/65R15 84T 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "City"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Fit Ex 1.5 CVT 175/65R14 82T 2008",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Fit"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "Civic 1.7 LXL Automatico 185/65R15 88H 2003",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Civic"
+  },
+  {
+    "Marca": "Honda",
+    "Versão": "FIT EX 175/65R14 82T 2008",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "FIT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Accent",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Accent"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Atos",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Atos"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Atos Prime",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Atos"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Equus",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Equus"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Centennial",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Centennial"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Coupe",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Coupe"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Elantra",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Elantra"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Galloper",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Galloper"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "H-1 Com 195/70R14",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "H-1"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "H-1 Com 205/70R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "H-1"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "H100 Com 185R14",
+    "(D) sem peso": "60 psi",
+    "(T) sem peso": "60 psi",
+    "(D) com peso": "60 psi",
+    "(T) com peso": "60 psi",
+    "Modelo": "H100"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "H100 Com 195R14",
+    "(D) sem peso": "40 psi",
+    "(T) sem peso": "40 psi",
+    "(D) com peso": "40 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "H100"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Hr",
+    "(D) sem peso": "40 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "40 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Hr"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Matrix",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Matrix"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Santa Fé",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Santa Fé"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Sonata Equipada Com Aros 14",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Sonata"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Sonata Equipada Com Aros 15",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Sonata"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Sonata Equipada Com Aro 16",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Sonata"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Terracan",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Terracan"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Trajet",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Trajet"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Tucson",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Tucson"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Elantra 1.8L 215/45R17 87H 2012",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Elantra"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "i30 2.0 225/45R17 91V 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "i30"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Tucson 2.0 235/60R16 100H 2009",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Tucson"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "HB20 Comfort Plus 175/70R14 84T 2012",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "HB20"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "i30 GLS 2.0 225/45R17 91V 2012",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "i30"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "i30 CW 225/45R17 94W XL 2010",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "i30"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "i30 2.0 GLS Automatico 225/45R17 91V 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "i30"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Azera V6 235/55R17 98V 2011",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Azera"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Sonata GLS 2.4 225/45R18 95V XL 2010",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Sonata"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "HB20 Confort Plus 1.0 175/70R14 84T 2013",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "HB20"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "HB20 Comfort 175/70R14 84T 2014",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "HB20"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "ix35 2.0 225/55R18 98H 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "ix35"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Hb20 Confort Style 175/70R14 84T 2014",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "HB20"
+  },
+  {
+    "Marca": "Hyundai",
+    "Versão": "Hb20 Confort Style 1.0 175/70R14 84T 2014",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "HB20"
+  },
+  {
+    "Marca": "Iveco",
+    "Versão": "Cityclass",
+    "(D) sem peso": "58 psi",
+    "(T) sem peso": "76 psi",
+    "(D) com peso": "58 psi",
+    "(T) com peso": "76 psi",
+    "Modelo": "Cityclass"
+  },
+  {
+    "Marca": "Iveco",
+    "Versão": "Daily Com 195/75R16",
+    "(D) sem peso": "62 psi",
+    "(T) sem peso": "51 psi",
+    "(D) com peso": "62 psi",
+    "(T) com peso": "51 psi",
+    "Modelo": "Daily"
+  },
+  {
+    "Marca": "Iveco",
+    "Versão": "Daily Com 205/75R16",
+    "(D) sem peso": "58 psi",
+    "(T) sem peso": "76 psi",
+    "(D) com peso": "58 psi",
+    "(T) com peso": "76 psi",
+    "Modelo": "Daily"
+  },
+  {
+    "Marca": "Iveco",
+    "Versão": "Daily Com 215/75R16",
+    "(D) sem peso": "58 psi",
+    "(T) sem peso": "76 psi",
+    "(D) com peso": "58 psi",
+    "(T) com peso": "76 psi",
+    "Modelo": "Daily"
+  },
+  {
+    "Marca": "Iveco",
+    "Versão": "Daily Com 225/75R16",
+    "(D) sem peso": "58 psi",
+    "(T) sem peso": "76 psi",
+    "(D) com peso": "58 psi",
+    "(T) com peso": "76 psi",
+    "Modelo": "Daily"
+  },
+  {
+    "Marca": "Iveco",
+    "Versão": "Daily Com 7.50R16",
+    "(D) sem peso": "58 psi",
+    "(T) sem peso": "76 psi",
+    "(D) com peso": "58 psi",
+    "(T) com peso": "76 psi",
+    "Modelo": "Daily"
+  },
+  {
+    "Marca": "Iveco",
+    "Versão": "Maxivan",
+    "(D) sem peso": "62 psi",
+    "(T) sem peso": "51 psi",
+    "(D) com peso": "62 psi",
+    "(T) com peso": "51 psi",
+    "Modelo": "Maxivan"
+  },
+  {
+    "Marca": "Iveco",
+    "Versão": "Scudato Com 195/75R16",
+    "(D) sem peso": "62 psi",
+    "(T) sem peso": "51 psi",
+    "(D) com peso": "62 psi",
+    "(T) com peso": "51 psi",
+    "Modelo": "Scudato"
+  },
+  {
+    "Marca": "Iveco",
+    "Versão": "Scudato Com 225/75R16",
+    "(D) sem peso": "58 psi",
+    "(T) sem peso": "76 psi",
+    "(D) com peso": "58 psi",
+    "(T) com peso": "76 psi",
+    "Modelo": "Scudato"
+  },
+  {
+    "Marca": "Jaguar",
+    "Versão": "S-Type",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "S-Type"
+  },
+  {
+    "Marca": "Jaguar",
+    "Versão": "X-Type",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "X-Type"
+  },
+  {
+    "Marca": "Jaguar",
+    "Versão": "Xj Series 6.0",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Xj Series"
+  },
+  {
+    "Marca": "Jaguar",
+    "Versão": "Xj Series 4.0",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Xj Series"
+  },
+  {
+    "Marca": "Jaguar",
+    "Versão": "Xj Series 4.2",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Xj Series"
+  },
+  {
+    "Marca": "Jaguar",
+    "Versão": "Xk Series",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Xk Series"
+  },
+  {
+    "Marca": "Jeep",
+    "Versão": "Cherokee",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Cherokee"
+  },
+  {
+    "Marca": "Jeep",
+    "Versão": "Commander",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Commander"
+  },
+  {
+    "Marca": "Jeep",
+    "Versão": "Grand Cherokee",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Grand Cherokee"
+  },
+  {
+    "Marca": "Jeep",
+    "Versão": "Wrangler",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Wrangler"
+  },
+  {
+    "Marca": "Jeep",
+    "Versão": "Grand Cherokee 5.2 8V 4×4 225/70R16 1997",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Grand Cherokee 5.2 8V 4×4 225/70R16 1997"
+  },
+  {
+    "Marca": "Jpx",
+    "Versão": "Montez",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Montez"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Besta Normal",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "44 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "54 psi",
+    "Modelo": "Besta Normal"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Besta Grand",
+    "(D) sem peso": "49 psi",
+    "(T) sem peso": "54 psi",
+    "(D) com peso": "54 psi",
+    "(T) com peso": "61 psi",
+    "Modelo": "Besta Grand"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Bongo K2400",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "44 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "54 psi",
+    "Modelo": "Bongo K2400"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Bongo K2700",
+    "(D) sem peso": "49 psi",
+    "(T) sem peso": "54 psi",
+    "(D) com peso": "54 psi",
+    "(T) com peso": "61 psi",
+    "Modelo": "Bongo K2700"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Bongo K3600 Rs",
+    "(D) sem peso": "49 psi",
+    "(T) sem peso": "54 psi",
+    "(D) com peso": "54 psi",
+    "(T) com peso": "61 psi",
+    "Modelo": "Bongo K3600 Rs"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Bongo K2700 Rd",
+    "(D) sem peso": "40 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "40 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Bongo K2700 Rd"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Carens",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Carens"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Carnival",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Carnival"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Cerato",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Cerato"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Ceres",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "44 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "54 psi",
+    "Modelo": "Ceres"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Clarus",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Clarus"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Magentis Com Aros 15",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Magentis"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Magentis Com Aros 15",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Magentis"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Magentis Com Aro 16",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Magentis"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Opirus",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Opirus"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Picanto",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Picanto"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Rio",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Rio"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Sephia",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Sephia"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Shuma",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Shuma"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Sorento",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Sorento"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Sportage",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Sportage"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Picanto Ex 165/60R14 75T 2010",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Picanto"
+  },
+  {
+    "Marca": "Kia",
+    "Versão": "Picanto 1.0 8V EX FLEX AUTO III 165/60R14 75H 2012",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Picanto"
+  },
+  {
+    "Marca": "Lada",
+    "Versão": "Laika",
+    "(D) sem peso": "25 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Laika"
+  },
+  {
+    "Marca": "Lada",
+    "Versão": "Niva",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "25 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "25 psi",
+    "Modelo": "Niva"
+  },
+  {
+    "Marca": "Lada",
+    "Versão": "Samara",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Samara"
+  },
+  {
+    "Marca": "Lamborghini",
+    "Versão": "Diablo",
+    "(D) sem peso": "41 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Diablo"
+  },
+  {
+    "Marca": "Land rover",
+    "Versão": "Defender",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Defender"
+  },
+  {
+    "Marca": "Land rover",
+    "Versão": "Discovery",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Discovery"
+  },
+  {
+    "Marca": "Land rover",
+    "Versão": "Freelander",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Freelander"
+  },
+  {
+    "Marca": "Land rover",
+    "Versão": "Range Rover",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Range Rover"
+  },
+  {
+    "Marca": "Land rover",
+    "Versão": "Range Rover Sport",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Range Rover"
+  },
+  {
+    "Marca": "Land rover",
+    "Versão": "Range Rover Sport Supercharger 275/40R20 106Y",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "42 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "42 psi",
+    "Modelo": "Range Rover"
+  },
+  {
+    "Marca": "Lexus",
+    "Versão": "Es300",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Es300"
+  },
+  {
+    "Marca": "Lexus",
+    "Versão": "Es330",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Es330"
+  },
+  {
+    "Marca": "Lexus",
+    "Versão": "Ls400",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Ls400"
+  },
+  {
+    "Marca": "Lexus",
+    "Versão": "Ls430",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Ls430"
+  },
+  {
+    "Marca": "Lotus",
+    "Versão": "Elise",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "19 psi",
+    "Modelo": "Elise"
+  },
+  {
+    "Marca": "Lotus",
+    "Versão": "Esprit",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Esprit"
+  },
+  {
+    "Marca": "Marca",
+    "Versão": "Versão",
+    "(D) sem peso": "(D) sem peso",
+    "(T) sem peso": "(T) sem peso",
+    "(D) com peso": "(D) com peso",
+    "(T) com peso": "(T) com peso",
+    "Modelo": "Modelo"
+  },
+  {
+    "Marca": "Maserati",
+    "Versão": "3200 Gt",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "3200 Gt"
+  },
+  {
+    "Marca": "Maserati",
+    "Versão": "Coupe",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Coupe"
+  },
+  {
+    "Marca": "Maserati",
+    "Versão": "Gran Sport",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Gran Sport"
+  },
+  {
+    "Marca": "Maserati",
+    "Versão": "Spyder",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Spyder"
+  },
+  {
+    "Marca": "Maserati",
+    "Versão": "Quattroporte Com Aro 17",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "40 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "Quattroporte"
+  },
+  {
+    "Marca": "Maserati",
+    "Versão": "Quattroporte Com Aro 18",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "40 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "Quattroporte"
+  },
+  {
+    "Marca": "Mazda",
+    "Versão": "626 Com Medidas 185/65R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "626"
+  },
+  {
+    "Marca": "Mazda",
+    "Versão": "626 Com Medidas 195/60R15",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "626"
+  },
+  {
+    "Marca": "Mazda",
+    "Versão": "626 Com 205/55R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "626"
+  },
+  {
+    "Marca": "Mazda",
+    "Versão": "B-Series",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "50 psi",
+    "Modelo": "B-Series"
+  },
+  {
+    "Marca": "Mazda",
+    "Versão": "Millenia",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Millenia"
+  },
+  {
+    "Marca": "Mazda",
+    "Versão": "Mpv",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Mpv"
+  },
+  {
+    "Marca": "Mazda",
+    "Versão": "Mx-3",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Mx-3"
+  },
+  {
+    "Marca": "Mazda",
+    "Versão": "Mx-5",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Mx-5"
+  },
+  {
+    "Marca": "Mazda",
+    "Versão": "Protege",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Protege"
+  },
+  {
+    "Marca": "Mazda",
+    "Versão": "Xedos 9",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Xedos 9"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe A Com Aro 15",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Classe A"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe A Com Aro 16",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Classe A"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe B",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Classe B"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe C Hatch",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Classe C"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe C Sedan – Exceto Amg",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Classe C"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe C 32 Amg Sedan",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe C"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe C 36 Amg Sedan",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "Classe C"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe C 43 Amg Sedan",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe C"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe C 55 Amg Sedan",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe C"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe C Touring – Exceto Amg",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "45 psi",
+    "Modelo": "Classe C"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe C Amg Touring",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe C"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe Cl",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Classe Cl"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe E Cabriolet",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "Classe E"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe E Sedan – Exceto Amg",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "Classe E"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe E Amg Sedan",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Classe E"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe E Touring – Exceto Amg",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Classe E"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe E Amg Touring",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Classe E"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe G",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Classe G"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe M",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Classe M"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe R R 350",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe R"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe S 280",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe S"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe S 320",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe S"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe S 350",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe S"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe S 500",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe S"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe S 55 Amg",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe S"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe S 600",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe S"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Classe S 65Amg",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Classe S"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Clk",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Clk"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Cls",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Cls"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Mb180",
+    "(D) sem peso": "50 psi",
+    "(T) sem peso": "57 psi",
+    "(D) com peso": "65 psi",
+    "(T) com peso": "70 psi",
+    "Modelo": "Mb180"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Sl 280",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Sl 280"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Sl 320",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Sl 320"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Sl 350",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Sl 350"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Sl 500 55Amg",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Sl 500"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Sl 600",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Sl 600"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Slk",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Slk"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Slr",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Slr"
+  },
+  {
+    "Marca": "Mercedes",
+    "Versão": "Sprinter",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "44 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "65 psi",
+    "Modelo": "Sprinter"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "3000 Gt",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "3000 Gt"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Airtrek",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Airtrek"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Colt",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Colt"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Eclipse",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Eclipse"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Eclipse",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Eclipse"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Expo",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Expo"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Galant",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Galant"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Grandis",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Grandis"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "L200 Com Aro 15",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "L200"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "L200 Com Aro 16 – Exceto 265/70R16",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "L200"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "L200 Com 265/70R16",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "L200"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "L300",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "L300"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Lancer – Exceto Evolution",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Lancer"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Lancer Evolution",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Lancer"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Outlander",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Outlander"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Pajero – Exceto 205/70R16",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Pajero"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Pajero Com 205/70R16",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Pajero"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Pajero Io",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Pajero"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Pajero Sport Com 265/70R15",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Pajero"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Pajero Sport Com 265/70R16",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Pajero"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Pajero Tr4",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Pajero"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Space Wagon",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Space Wagon"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "L200 Sport HPE P265/70R16 112T 2005",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "L200"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "L200 Triton HPE 3.5 Flex v6 P265/70R16 112H 2011",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "L200"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Versão": "Airtrek 2.4 Mivec 215/55R17 94V 2008",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Airtrek"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "350Z",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "350Z"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "D21",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "D21"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "D22",
+    "(D) sem peso": "39 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "D22"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Frontier",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Frontier"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Maxima",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Maxima"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Murano",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Murano"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Pathfinder Equipada Com Aros 15",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Pathfinder"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Pathfinder Equipada Com Aros 16",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Pathfinder"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Pathfinder Com Aro 17",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Pathfinder"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Primera",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Primera"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Sentra Com 175/70R13",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Sentra"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Sentra Com 195/60R15",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "23 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "23 psi",
+    "Modelo": "Sentra"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Terrano Ii",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Terrano Ii"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Tiida",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Tiida"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Xterra",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Xterra"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "X-Trail",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "X-Trail"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Sentra 2.0 205/55R16 91V",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Sentra"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "March 165/70R14 81T 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "March"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "March 1.6S 165/70R14 81T 2013",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "March"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Livina 1.8 SL 185/65R15 88H 2009",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Livina"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "March 1.6 16V 175/60R15 81H 2012",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "March"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Tiida Sedan 1.8 Flex 185/65R15 88H 2011",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Tiida"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Sentra 2.0 SL 205/55R16 91V 2008",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Sentra"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Sentra 2.0 SL P205/55R16 89H 2008",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Sentra"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Tiida SL 16V Auto 1.8 185/65R15 88H 2008",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Tiida"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "March SV 1.6 175/60R15 81H 2012",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "March"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "March 1.6 SV 175/60R15 81H 2012",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "March"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "March 1.6SV 175/60R15 82H 2013",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "March"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Micra 1.2 165/70R14 81S 2010",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Micra"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "March 1.6 SR 175/60R15 81H 2014",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "March"
+  },
+  {
+    "Marca": "Nissan",
+    "Versão": "Tiida Hatch SL 1.8 Manual 195/55R16 86H 2011",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Tiida"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "106",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "106"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "205",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "205"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "206 Cabriolet",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "206"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "206 Hatch",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "206"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "206 Sw",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "206"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "206 Sw Escapade",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "206"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "306 Cabriolet",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "306"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "306 Hatch – Com 175/65R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "306"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "306 Hatch – Com 185/60R14",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "306"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "306 Hatch – Com 185/60R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "306"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "306 Hatch – Com 185/65R14",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "306"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "306 Hatch – Com 195/55R15",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "306"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "306 Sedan",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "306"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "306 Wagon",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "306"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "307 Cabriolet",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "307"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "307 Hatch",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "307"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "307 Sedan",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "307"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "307 Sw",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "307"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "405",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "405"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "406 Coupe",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "406"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "406 Sedan – 2.0",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "406"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "406 Wagon – 2.0",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "406"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "406 Sedan – 3.0",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "406"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "407 Coupe",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "407"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "407 Sedan – 2.0",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "407"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "407 Sedan – 3.0",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "407"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "407 Sw Wagon – 2.0",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "407"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "407 Sw Wagon – 3.0",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "38 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "407"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "504",
+    "(D) sem peso": "23 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "65 psi",
+    "Modelo": "504"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "605",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "605"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "607",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "607"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "806",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "806"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "807",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "807"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "Boxer Com Aro 15",
+    "(D) sem peso": "59 psi",
+    "(T) sem peso": "65 psi",
+    "(D) com peso": "59 psi",
+    "(T) com peso": "65 psi",
+    "Modelo": "Boxer"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "Boxer Com Aro 16",
+    "(D) sem peso": "65 psi",
+    "(T) sem peso": "69 psi",
+    "(D) com peso": "65 psi",
+    "(T) com peso": "69 psi",
+    "Modelo": "Boxer"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "Partner",
+    "(D) sem peso": "41 psi",
+    "(T) sem peso": "49 psi",
+    "(D) com peso": "41 psi",
+    "(T) com peso": "49 psi",
+    "Modelo": "Partner"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "207 SW 185/65R14",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "207"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "207 207 XS 1.6 185/60R15 84H 2010",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "207"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "206 1.4 175/65R14 82H",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "206"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "207 HB XR 1.4 185/65R14 86H 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "207"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "207 HB XR 1.4 185/65R14 86H 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "207"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "406 3.0 205/60R15 91V 2001",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "406"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "408 2.0 205/55R16 91V 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "408"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "206 SW 1.4 PRESENCE 175/65R14 82H 2006",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "206"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "207 XR 1.4 185/65R14 86H 2010",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "207"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "408 Allure 202/55R16 91V 2012",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "408"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "307 Sedan 2.0 16v Feline 195/65R15 91H 2007",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "307"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "307 Sedan Feline 205/55R16 91V 2008",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "46 psi",
+    "Modelo": "307"
+  },
+  {
+    "Marca": "Peugeot",
+    "Versão": "307 1.6 Presence Pack 16v Flex 4p Manual 195/65R15 91V 2008",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "307"
+  },
+  {
+    "Marca": "Porsche",
+    "Versão": "911",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "44 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "911"
+  },
+  {
+    "Marca": "Porsche",
+    "Versão": "Boxster",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Boxster"
+  },
+  {
+    "Marca": "Porsche",
+    "Versão": "Carrera Gt",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Carrera Gt"
+  },
+  {
+    "Marca": "Porsche",
+    "Versão": "Cayenne",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "49 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "49 psi",
+    "Modelo": "Cayenne"
+  },
+  {
+    "Marca": "Porsche",
+    "Versão": "Cayman",
+    "(D) sem peso": "34 psi",
+    "(T) sem peso": "40 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Cayman"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "19 Equipada Com Aros 14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "19"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "19 Equipada Com Aros 15",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "19"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "19 Com Aro 13",
+    "(D) sem peso": "23 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "19"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "21",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "21"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Clio Com 155/80R13",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Clio"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Clio Com 165/70R14 ate 2002",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Clio"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Clio Com 165/70R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Clio"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Clio Com 175/65R14 ate 2002",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Clio"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Clio Com 175/65R14 desde 2003",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Clio"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Clio Com 185/55R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Clio"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Clio Com 185/60R14",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Clio"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Clio Com 185/65R14",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Clio"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Espace",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Espace"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Xpress",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Xpress"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Grand Espace",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Grand Espace"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Kangoo",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Kangoo"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Kangoo Express",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Kangoo Express"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Laguna 2",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Laguna 2"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Laguna 3",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Laguna 3"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Logan",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Logan"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Master",
+    "(D) sem peso": "60 psi",
+    "(T) sem peso": "68 psi",
+    "(D) com peso": "60 psi",
+    "(T) com peso": "68 psi",
+    "Modelo": "Master"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Mégane",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Mégane"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Safrane",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Safrane"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Scénic",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Scénic"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Trafic",
+    "(D) sem peso": "48 psi",
+    "(T) sem peso": "55 psi",
+    "(D) com peso": "60 psi",
+    "(T) com peso": "65 psi",
+    "Modelo": "Trafic"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Twingo",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Twingo"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Mégane Grand Tour 205/55R16",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Mégane"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Symbol Privilege 1.6 185/55R15 82V 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "0 psi",
+    "(T) com peso": "0 psi",
+    "Modelo": "Symbol"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Duster 1.6 16V 215/65R16 98T 2011",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Duster"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Duster 1.6 16V 215/65R16 98T 2012",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Duster"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Fluence Dynamic 205/60R16 92H 2012",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Fluence"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Logan 1.6 8V 185/65R15 88T 2008",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Logan"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Fluence 2.0 16v 205/60R16 2013",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Fluence"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Logan 1.6 8v Hi-torque 185/70R14 88H 2008",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Logan"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Gran Tour 2.0 16v 205/55R16 91V 2008",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Gran"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Duster Dinamic 215/65R16 98S 2013",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Duster"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Symbol Top 185/55R15 82H 2012",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Symbol"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Symbol Top (1.6) 185/55R15 82H 2012",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "31 psi",
+    "Modelo": "Symbol"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Sandero Privilege 1.6 16v 185/65R15 88T 2008",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Sandero"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Fluence Dyn 2.0 205/60R16 92H 2011",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Fluence"
+  },
+  {
+    "Marca": "Renault",
+    "Versão": "Logan 1.6 185/65R15 88T 2009",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Logan"
+  },
+  {
+    "Marca": "Santana",
+    "Versão": "Jalapão",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Jalapão"
+  },
+  {
+    "Marca": "Seat",
+    "Versão": "Cordoba",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Cordoba"
+  },
+  {
+    "Marca": "Seat",
+    "Versão": "Ibiza Com 175/70R13",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Ibiza"
+  },
+  {
+    "Marca": "Seat",
+    "Versão": "Ibiza Com 185/60R14",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Ibiza"
+  },
+  {
+    "Marca": "Seat",
+    "Versão": "Inca",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Inca"
+  },
+  {
+    "Marca": "Seat",
+    "Versão": "Leon",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Leon"
+  },
+  {
+    "Marca": "Seat",
+    "Versão": "Toledo",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Toledo"
+  },
+  {
+    "Marca": "Seat",
+    "Versão": "Ibiza 1.6 TDI 185/60R15 84H 2011",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Ibiza"
+  },
+  {
+    "Marca": "Smart",
+    "Versão": "FORTWO CABRIO 175/55R15 77T 2009",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "FORTWO"
+  },
+  {
+    "Marca": "Ssangyong",
+    "Versão": "Chairman",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Chairman"
+  },
+  {
+    "Marca": "Ssangyong",
+    "Versão": "Istana",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "42 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "52 psi",
+    "Modelo": "Istana"
+  },
+  {
+    "Marca": "Ssangyong",
+    "Versão": "Korando",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Korando"
+  },
+  {
+    "Marca": "Ssangyong",
+    "Versão": "Musso",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Musso"
+  },
+  {
+    "Marca": "Ssangyong",
+    "Versão": "Musso Sports",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Musso"
+  },
+  {
+    "Marca": "Ssangyong",
+    "Versão": "Rexton",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Rexton"
+  },
+  {
+    "Marca": "Subaru",
+    "Versão": "Forester",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Forester"
+  },
+  {
+    "Marca": "Subaru",
+    "Versão": "Impreza Exceto Turbo",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Impreza"
+  },
+  {
+    "Marca": "Subaru",
+    "Versão": "Impreza Turbo",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Impreza"
+  },
+  {
+    "Marca": "Subaru",
+    "Versão": "Legacy ate 2004",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Legacy"
+  },
+  {
+    "Marca": "Subaru",
+    "Versão": "Legacy desde 2005",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Legacy"
+  },
+  {
+    "Marca": "Subaru",
+    "Versão": "Outback",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Outback"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Baleno",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Baleno"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Grand Vitara 3 Portas",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Grand Vitara"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Grand Vitara 5 Portas",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Grand Vitara"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Grand Vitara Xl-7",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Grand Vitara"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Ignis",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Ignis"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Jimny",
+    "(D) sem peso": "20 psi",
+    "(T) sem peso": "20 psi",
+    "(D) com peso": "20 psi",
+    "(T) com peso": "20 psi",
+    "Modelo": "Jimny"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Samurai",
+    "(D) sem peso": "20 psi",
+    "(T) sem peso": "20 psi",
+    "(D) com peso": "20 psi",
+    "(T) com peso": "20 psi",
+    "Modelo": "Samurai"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Swift",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Swift"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Vitara",
+    "(D) sem peso": "20 psi",
+    "(T) sem peso": "20 psi",
+    "(D) com peso": "20 psi",
+    "(T) com peso": "20 psi",
+    "Modelo": "Vitara"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Wagon R+",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Wagon R+"
+  },
+  {
+    "Marca": "Suzuki",
+    "Versão": "Vitara 1.6 JLX P205/75R15 1994",
+    "(D) sem peso": "23 psi",
+    "(T) sem peso": "23 psi",
+    "(D) com peso": "23 psi",
+    "(T) com peso": "23 psi",
+    "Modelo": "Vitara"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Bandeirante",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Bandeirante"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Camry",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Camry"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Corolla",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Corolla"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Fielder",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Fielder"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Corona",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Corona"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Hilux 2001 4X2 ate 2004",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Hilux"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Hilux 1996 4X4 ate 2004",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Hilux"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Hilux Com 255/70R15",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Hilux"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Hilux Com 205/70R16",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Hilux"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Hilux ate 2004",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Hilux"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Hilux Sw4 desde 2005",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Hilux"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Hilux Sw4",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Hilux"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Land Cruiser",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Land Cruiser"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Paseo",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "26 psi",
+    "Modelo": "Paseo"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Previa",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Previa"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Prius",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Prius"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Rav4 215/70R16 2005",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Rav4"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Corolla XEI 195/60R15 88H 2006",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Corolla"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Corolla XEI 195/60R15 88H 2005",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Corolla"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Hilux Hilux SRV 3.0 P265/70R16 112S 2010",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "29 psi",
+    "Modelo": "Hilux"
+  },
+  {
+    "Marca": "Toyota",
+    "Versão": "Corolla XEI 1.8 MT 185/65R14 88H 1999",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Corolla"
+  },
+  {
+    "Marca": "Troller",
+    "Versão": "Troller",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Troller"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Amarok P245/70R16 107T",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "0 psi",
+    "(T) com peso": "0 psi",
+    "Modelo": "Amarok"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Bora",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "44 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "65 psi",
+    "Modelo": "Bora"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Caravelle",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Caravelle"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Crossfox",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "44 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "65 psi",
+    "Modelo": "Crossfox"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Eurova",
+    "(D) sem peso": "31 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Eurova"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Fox",
+    "(D) sem peso": "17 psi",
+    "(T) sem peso": "22 psi",
+    "(D) com peso": "20 psi",
+    "(T) com peso": "28 psi",
+    "Modelo": "Fox"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Fusca Com 185/70R14",
+    "(D) sem peso": "16 psi",
+    "(T) sem peso": "20 psi",
+    "(D) com peso": "17 psi",
+    "(T) com peso": "24 psi",
+    "Modelo": "Fusca"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Fusca Com 5.90X14",
+    "(D) sem peso": "24 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "24 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Fusca"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol Com 145/80R13",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol 1.0 – Com 175/70R13",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol 1.6 – Com 175/70R13",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol 1.8 – Com 175/70R13",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol 2.0 – Com 175/70R13",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol Com Aro 14",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol Com Aro 15",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Golf Cabriolet",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Golf"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Golf Com 175/80R14",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Golf"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Golf 1.8 Exceto Gti – Com 185/60R14 ate 1998",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Golf"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Golf 2.0 Exceto Gti – Com 185/60R14 ate 1998",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Golf"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Golf Gti – Com 185/60R14 ate 1998",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Golf"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Golf Com Aro 15",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Golf"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Golf Com Aro 16",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Golf"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Golf Com Aro 17",
+    "(D) sem peso": "38 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "40 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Golf"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Jetta",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Jetta"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Kombi Com 185/80R14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Kombi"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Kombi Com 7.35X14",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Kombi"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Logus Com Aro 13",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Logus"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Logus Com Aro 14",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Logus"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Parati Com 175/70R13",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "27 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Parati"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Parati Com 175/70R14",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "27 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Parati"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Parati Com 185/60R14",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Parati"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Parati Com Aro 15",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Parati"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 2.0 – Com 195/60R14 ate 1997",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 1.8 Com 195/65R15 ate 2004",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 1.8 Com 205/60R15 ate 2004",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 2.0 Com 195/65R15 ate 2004",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 2.0 Com 205/60R15 ate 2004",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 1.8 Turbo – Com 195/65R15 ate 2004",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 1.8 Turbo – Com 205/60R16 ate 2004",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 2.8 V6 – Com 195/65R15 ate 2004",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 2.8 V6 – Com 205/60R16 ate 2004",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 2.8 VR6 – Com 205/50R15 Ate 1997",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 2.0 – Com 215/55R16",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 2.0 Turbo – Com 235/45R17",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 2.0 – Com 195/60R14 ate 1997",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 2.0 – Com 195/60R14 ate 1997",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 1.8 – Com 195/65R15 ate 2004",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 1.8 – Com 205/60R15 ate 2004",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 2.0 – Com 195/65R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 2.0 – Com 205/60R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 1.8 Turbo – Com 195/65R15 ate 2004",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 1.8 Turbo – Com 205/60R16 ate 2004",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 2.8 V6 – Com 195/65R15 ate 2004",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 2.8 V6 – Com 205/60R16 ate 2004",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 2.8 Vr6 – Com 205/50R15 ate 1997",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 2.0 – Com 215/55R16",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat Variant 2.0 Turbo – Com 235/45R17",
+    "(D) sem peso": "36 psi",
+    "(T) sem peso": "36 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Pointer",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Pointer"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Polo Classic 1.8 185/60R14 1999",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Polo"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Polo Hatch – Com 195/55R15",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "33 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Polo"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Polo Sedan – Com 185/60R14",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Polo"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Polo Sedan – Com 195/55R15",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "37 psi",
+    "Modelo": "Polo"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Quantum",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Quantum"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Santana",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Santana"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Saveiro Com Aro 13",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Saveiro"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Saveiro Com Aro 14",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "27 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Saveiro"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Saveiro Com Aro 15",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "27 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Saveiro"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Spacefox",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Spacefox"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Touareg",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Touareg"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Van",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Van"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Voyage Com 175/70R13",
+    "(D) sem peso": "24 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "24 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Voyage"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Voyage Com 185/65R13",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Voyage"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Voyage 1.0 175/70R14 2009",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Voyage"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Fusca Fusca 165/80R15 87T",
+    "(D) sem peso": "17 psi",
+    "(T) sem peso": "17 psi",
+    "(D) com peso": "20 psi",
+    "(T) com peso": "20 psi",
+    "Modelo": "Fusca"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Polo Polo Hatch – Com 185/60R14",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "37 psi",
+    "Modelo": "Polo"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol G5 1.0 175/70R14 2010",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Fox 1.6 195/55R15 2010",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Fox"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Passat 2.0 8V 195/60R14 1996",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Passat"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol Power 1.6 195/55R15 85H 2011",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol G5 Power 1.6 195/55R15 85H",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Beetle",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "38 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "Beetle"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Saveiro 1.6 CE 175/70R14 88T 2012",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "43 psi",
+    "Modelo": "Saveiro"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Saveiro 1.6 CE 205/60R15 91H 2012",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "41 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Saveiro"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Logus Com Aro 13 175/70R13 82T",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Logus"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Golf Glx 2.0 185/60R14 82H 1995",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Golf"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Quantum 2.0 175/70R14 84T 1990",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Quantum"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Fox 1.0 195/55R15 85H 2009",
+    "(D) sem peso": "27 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "Fox"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Polo Hatch 1.6 195/55R15 85H 2008",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "37 psi",
+    "Modelo": "Polo"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Voyage Comfortline 195/55R15 85H 2011",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Voyage"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "POLO 1.6 185/60R14 82H 2003",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "POLO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Golf 2.0 195/65R15 91V 2010",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Golf"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Voyage Comfortline 1.6 195/55R15 85V 2012",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Voyage"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "GOL PLUS 1.0 145/80R13 75T 2001",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "GOL"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Voyage GL 1.8 4P 175/70R13 82T 1995",
+    "(D) sem peso": "24 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "24 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Voyage"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Polo 2.0 GT 195/55R15 85H 2011",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "37 psi",
+    "Modelo": "Polo"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Saveiro Cross 1.6 205/60R15 2011",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Saveiro"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Jetta TSI Tiptronic 225/45R17 94W XL 2012",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Jetta"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol 1000 145/80R13 82T 1994",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Bora Tiptronic 205/55R16 91W 2010",
+    "(D) sem peso": "33 psi",
+    "(T) sem peso": "44 psi",
+    "(D) com peso": "44 psi",
+    "(T) com peso": "65 psi",
+    "Modelo": "Bora"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol Power 195/55R15 85H 2010",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol GL 1.8 175/70R13 82T 1990",
+    "(D) sem peso": "24 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "24 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Santana 2.0 185/65R14 86T 1996",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "28 psi",
+    "(T) com peso": "34 psi",
+    "Modelo": "Santana"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Amarok CD 255/60R18 112T 2011",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "29 psi",
+    "(T) com peso": "44 psi",
+    "Modelo": "Amarok"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol Trend 1.6 175/70R14 84T 2012",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "31 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Tiguan 2.0 TSi 235/50R18 91V 2011",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Tiguan"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Spacefox Sportline 195/55R15 84V 2010",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "34 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "40 psi",
+    "Modelo": "Spacefox"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Fox Plus 1.0 5P 175/65R14 82H 2006",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "31 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Fox"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Gol CLI 1.6 175/70R13 82T 1995",
+    "(D) sem peso": "26 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "26 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "Gol"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "FUSCA / ITAMAR 1600 165R15 86T 1994",
+    "(D) sem peso": "17 psi",
+    "(T) sem peso": "22 psi",
+    "(D) com peso": "20 psi",
+    "(T) com peso": "85 psi",
+    "Modelo": "Fusca"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Versão": "Up! Move 175/70R14 84T 2014/2015",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "26 psi",
+    "(D) com peso": "32 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "Up!"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "460",
+    "(D) sem peso": "30 psi",
+    "(T) sem peso": "27 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "30 psi",
+    "Modelo": "460"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "850 2.4 – Com 195/60R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "850"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "850 2.4 – Com 205/55R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "850"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "850 2.3 Turbo R – Com 205/45R17",
+    "(D) sem peso": "41 psi",
+    "(T) sem peso": "39 psi",
+    "(D) com peso": "42 psi",
+    "(T) com peso": "48 psi",
+    "Modelo": "850"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "850 2.3 Turbo T – Com 205/55R15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "41 psi",
+    "Modelo": "850"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "960",
+    "(D) sem peso": "28 psi",
+    "(T) sem peso": "28 psi",
+    "(D) com peso": "30 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "960"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "C70",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "C70"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "S40",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "32 psi",
+    "Modelo": "S40"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "S60",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "S60"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "S70 Com Aro 15",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "S70"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "S70 Equipada Com Aros 16",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "S70"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "S70 Equipada Com Aros 17",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "S70"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "S80",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "39 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "S80"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "V40",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "V40"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "V50",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "30 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "33 psi",
+    "Modelo": "V50"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "V70",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "33 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "V70"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "V70 Xc",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "V70 Xc"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "Xc70",
+    "(D) sem peso": "29 psi",
+    "(T) sem peso": "29 psi",
+    "(D) com peso": "34 psi",
+    "(T) com peso": "38 psi",
+    "Modelo": "Xc70"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "Xc90",
+    "(D) sem peso": "32 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "39 psi",
+    "Modelo": "Xc90"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "XC60 255 /65R17",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "35 psi",
+    "(D) com peso": "35 psi",
+    "(T) com peso": "35 psi",
+    "Modelo": "XC60"
+  },
+  {
+    "Marca": "Volvo",
+    "Versão": "C30 T5 205/50R17 93V 2009",
+    "(D) sem peso": "35 psi",
+    "(T) sem peso": "32 psi",
+    "(D) com peso": "36 psi",
+    "(T) com peso": "36 psi",
+    "Modelo": "C30"
+  }
+]
