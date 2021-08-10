@@ -1,0 +1,4410 @@
+[
+  {
+    "modelo": 145,
+    "versao": "Todas",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": 146,
+    "versao": "Todas",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "34 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": 155,
+    "versao": "Todas",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": 156,
+    "versao": "Todas",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": 164,
+    "versao": "Todas",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": 166,
+    "versao": "Todas",
+    "d0": "36 psi",
+    "t0": "35 psi",
+    "d1": "42 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "Towner",
+    "versao": "Towner Pneus 155/80R12",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "31 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "Towner",
+    "versao": "Towner Pneus 165/70R12",
+    "d0": "31 psi",
+    "t0": "31 psi",
+    "d1": "25 psi",
+    "t1": "25 psi"
+  },
+  {
+    "modelo": 80,
+    "versao": "80 Cabriolet",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": 80,
+    "versao": "80 Pneus 195/65R15",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": 80,
+    "versao": "80 Pneus 205/55R16",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "41 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 Cabriolet",
+    "d0": "42 psi",
+    "t0": "42 psi",
+    "d1": "42 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 Pneus 195/65R15",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "34 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 1.8 205/60R15",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "41 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 2 .0 Pneus 205/60R15",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "41 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 2.4 Pneus 205/60R15",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "41 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 2.8 Pneus 205/60R15",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "41 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 Pneus 205/55R16",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "42 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 Pneus 215/55R16",
+    "d0": "42 psi",
+    "t0": "42 psi",
+    "d1": "42 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 1.8 – Pneus 225/45R17 ate 2002",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "42 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 2.0 – Pneus 225/45R17 ate 2002",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "42 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 2.0 – Pneus 225/45R17",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "34 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 3.0 – Pneus 225/45R17 ate 2002",
+    "d0": "42 psi",
+    "t0": "42 psi",
+    "d1": "42 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 2.0 – Pneus 225/40R18",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "42 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 3.2 – Pneus 235/45R17 e 235/40R18",
+    "d0": "8 psi",
+    "t0": "38 psi",
+    "d1": "42 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "A4",
+    "versao": "A4 1.8T – Pneus 235/45R17",
+    "d0": "42 psi",
+    "t0": "42 psi",
+    "d1": "42 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "S6",
+    "versao": "S6 Pneus Aro 16",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "39 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "S6",
+    "versao": "S6 Pneus Aro 17",
+    "d0": "44 psi",
+    "t0": "44 psi",
+    "d1": "50 psi",
+    "t1": "50 psi"
+  },
+  {
+    "modelo": "A3",
+    "versao": "A3 1.8 Turbo 205/55R16 91W 2006",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "34 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "A3",
+    "versao": "A3 1.8 195/65R15 91H 2004",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "A3",
+    "versao": "A3 1.8T 180cv 205/55R16 91V 2006",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "34 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Serie 1",
+    "versao": "Serie 1 Pneus Aro 16",
+    "d0": "32 psi",
+    "t0": "38 psi",
+    "d1": "38 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Serie 1",
+    "versao": "Serie 1 Pneus Aro 17",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": 525,
+    "versao": "Serie 5 525 – Pneus Aro 15",
+    "d0": "29 psi",
+    "t0": "33 psi",
+    "d1": "35 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": 528,
+    "versao": "Serie 5 528 – Pneus Aro 15",
+    "d0": "29 psi",
+    "t0": "33 psi",
+    "d1": "35 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": 528,
+    "versao": "Serie 5 528 -Com Aro 16",
+    "d0": "29 psi",
+    "t0": "35 psi",
+    "d1": "36 psi",
+    "t1": "45 psi"
+  },
+  {
+    "modelo": 540,
+    "versao": "Serie 5 540 – Pneus Aro 16",
+    "d0": "29 psi",
+    "t0": "35 psi",
+    "d1": "36 psi",
+    "t1": "45 psi"
+  },
+  {
+    "modelo": 540,
+    "versao": "Serie 5 540 – Pneus Aro 17",
+    "d0": "33 psi",
+    "t0": "41 psi",
+    "d1": "41 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "M5",
+    "versao": "Serie 5 M5 ate 1999",
+    "d0": "29 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "M5",
+    "versao": "Serie 5 M5 ate 2004",
+    "d0": "33 psi",
+    "t0": "41 psi",
+    "d1": "41 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "Serie 5 Touring",
+    "versao": "Serie 5 Touring – Pneus Aro 15",
+    "d0": "29 psi",
+    "t0": "35 psi",
+    "d1": "36 psi",
+    "t1": "45 psi"
+  },
+  {
+    "modelo": "Serie 5 Touring",
+    "versao": "Serie 5 Touring – Pneus Aro 16",
+    "d0": "29 psi",
+    "t0": "35 psi",
+    "d1": "36 psi",
+    "t1": "45 psi"
+  },
+  {
+    "modelo": "Serie 5 Touring",
+    "versao": "Serie 5 Touring – Pneus Aro 17",
+    "d0": "39 psi",
+    "t0": "42 psi",
+    "d1": "44 psi",
+    "t1": "51 psi"
+  },
+  {
+    "modelo": "Z3",
+    "versao": "Z3 1.9",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Z3",
+    "versao": "Z3 2.8",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Z3",
+    "versao": "Z3 3.0/M",
+    "d0": "29 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Z4",
+    "versao": "Z4 2",
+    "d0": "30 psi",
+    "t0": "32 psi",
+    "d1": "30 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Z4",
+    "versao": "Z4 3.0/M",
+    "d0": "30 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Z8",
+    "versao": "Z8 4.9",
+    "d0": "30 psi",
+    "t0": "32 psi",
+    "d1": "30 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Face",
+    "versao": "Face 1.3 175/60R14 2010",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "QQ",
+    "versao": "QQ 1.1 155/65R13 73h 2011",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Astra",
+    "versao": "Astra Pneus 175/65R14",
+    "d0": "33 psi",
+    "t0": "29 psi",
+    "d1": "33 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Astra",
+    "versao": "Astra Pneus 185/60R14",
+    "d0": "29 psi",
+    "t0": "26 psi",
+    "d1": "30 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Astra",
+    "versao": "Astra Pneus 185/65R14",
+    "d0": "30 psi",
+    "t0": "29 psi",
+    "d1": "33 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Astra",
+    "versao": "Astra Pneus 195/60R15",
+    "d0": "30 psi",
+    "t0": "28 psi",
+    "d1": "33 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Astra",
+    "versao": "Astra Pneus 205/55R16",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Blazer",
+    "versao": "Blazer Pneus 225/75R15",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "35 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Blazer",
+    "versao": "Blazer Pneus 235/75R15",
+    "d0": "35 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Blazer",
+    "versao": "Blazer Pneus 235/70R16",
+    "d0": "35 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Calibra",
+    "versao": "Calibra 2.0 16V",
+    "d0": "35 psi",
+    "t0": "32 psi",
+    "d1": "36 psi",
+    "t1": "46 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Hatch – Pneus 165/70R13 ate 2002",
+    "d0": "28 psi",
+    "t0": "25 psi",
+    "d1": "30 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Sedan – Pneus 165/70R13 ate 2002",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Hatch/Sedan – Pneus 175/65R14 ate 2002",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Hatch/Sedan – Pneus 185/60R14 ate 2002",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Hatch/Sedan – Pneus 165/70R13 desde 2003",
+    "d0": "34 psi",
+    "t0": "38 psi",
+    "d1": "35 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Hatch/Sedan – Pneus 175/65R14 desde 2003",
+    "d0": "32 psi",
+    "t0": "28 psi",
+    "d1": "34 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Hatch/Sedan – Pneus 185/60R14 desde 2003",
+    "d0": "28 psi",
+    "t0": "26 psi",
+    "d1": "32 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Kadett",
+    "versao": "Kadett Pneus Aro 13",
+    "d0": "25 psi",
+    "t0": "24 psi",
+    "d1": "27 psi",
+    "t1": "27 psi"
+  },
+  {
+    "modelo": "Kadett",
+    "versao": "Kadett Pneus Aro 14",
+    "d0": "25 psi",
+    "t0": "24 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Meriva",
+    "versao": "Meriva Pneus 175/70R14",
+    "d0": "33 psi",
+    "t0": "29 psi",
+    "d1": "36 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "Meriva",
+    "versao": "Meriva Pneus 185/60R15",
+    "d0": "34 psi",
+    "t0": "30 psi",
+    "d1": "36 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "Montana",
+    "versao": "Montana 1.8 8V Flexpower",
+    "d0": "32 psi",
+    "t0": "28 psi",
+    "d1": "32 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "Monza",
+    "versao": "Monza Pneus Aro 13",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "26 psi"
+  },
+  {
+    "modelo": "Monza",
+    "versao": "Monza Pneus Aro 14",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Omega",
+    "versao": "Omega Pneus 195/65R15",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Omega",
+    "versao": "Omega Pneus 205/60R15",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "38 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Omega",
+    "versao": "Omega Pneus 215/60R16",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "S-10",
+    "versao": "S-10 Pneus 225/75R15",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "35 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "S-10",
+    "versao": "S-10 Pneus 205/75R15",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "35 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "S-10",
+    "versao": "S-10 Pneus 235/75R15",
+    "d0": "35 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "S-10",
+    "versao": "S-10 Pneus 235/70R16",
+    "d0": "35 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Vectra",
+    "versao": "Vectra Pneus 185/70R14- Exceto Elite",
+    "d0": "29 psi",
+    "t0": "26 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Vectra",
+    "versao": "Vectra Pneus 195/60R15- Exceto Elite",
+    "d0": "27 psi",
+    "t0": "24 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Vectra",
+    "versao": "Vectra Pneus 205/55R16- Exceto Elite",
+    "d0": "27 psi",
+    "t0": "24 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Vectra",
+    "versao": "Vectra Elite",
+    "d0": "30 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Montana",
+    "versao": "Montana 1.8 Pneus 185/60R15 2005",
+    "d0": "32 psi",
+    "t0": "28 psi",
+    "d1": "32 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "Vectra",
+    "versao": "Vectra GT-X 215/45R17 91V",
+    "d0": "30 psi",
+    "t0": "27 psi",
+    "d1": "34 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Celta",
+    "versao": "Celta 1.0 8v 165/70R13 2002",
+    "d0": "31 psi",
+    "t0": "25 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Wind 145/80R13 1996",
+    "d0": "28 psi",
+    "t0": "25 psi",
+    "d1": "30 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Classic",
+    "versao": "Classic 1.0 8v 165/70R13 79T 2010",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Cruze",
+    "versao": "Cruze 1.8 225/50R17 94V 2011",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Captiva",
+    "versao": "Captiva 3.6 V6 235/60R17 2011",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Vectra",
+    "versao": "Vectra Elite 225/45R17 94W 2006",
+    "d0": "0 psi",
+    "t0": "0 psi",
+    "d1": "30 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Meriva",
+    "versao": "Meriva 1.8 175/70R14 84T 2002",
+    "d0": "33 psi",
+    "t0": "29 psi",
+    "d1": "36 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "Agile",
+    "versao": "Agile 1.4 LTZ 185/60R15 88H 2012",
+    "d0": "28 psi",
+    "t0": "26 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Vectra",
+    "versao": "Vectra GLS 195/65R15 91H 1997",
+    "d0": "27 psi",
+    "t0": "24 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Celta",
+    "versao": "Celta Spirit 1.0 165/70R13 79T 2005",
+    "d0": "31 psi",
+    "t0": "25 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Prisma",
+    "versao": "Prisma LT1.4 175/65R14 82H 2012",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Prisma",
+    "versao": "Prisma Joy 1.4 175/65R14 82H 2009",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Wagon GLS 1.6 8V 185/60R14 82H 2001",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Ipanema",
+    "versao": "Ipanema 1.8 175/70R13 82T 1996",
+    "d0": "25 psi",
+    "t0": "26 psi",
+    "d1": "27 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Celta",
+    "versao": "Celta Flexpower 1.0 165/70R13 79T 2007",
+    "d0": "31 psi",
+    "t0": "25 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Opala",
+    "versao": "Opala 250S 195/70R14 91T 1978",
+    "d0": "25 psi",
+    "t0": "26 psi",
+    "d1": "30 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Tracker",
+    "versao": "Tracker 2.0 235/60R16 100H 2008",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "28 psi",
+    "t1": "28 psi"
+  },
+  {
+    "modelo": "Prisma",
+    "versao": "Prisma LT 1.4 175/65R14 82H 2012",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Onix",
+    "versao": "Onix LT 1.0 185/70R14 88H 2013",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Prisma",
+    "versao": "Prisma Max 1.4 175/65R14 82T 2011",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Celta",
+    "versao": "Celta 1.0 Spirit 165/70R13 79T 2005",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Onix",
+    "versao": "Onix LT 1.0 185/70R14 88H 2012",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Monza",
+    "versao": "Monza SL/E 2.0 álcool 185/70R13 86T 1988",
+    "d0": "26 psi",
+    "t0": "25 psi",
+    "d1": "29 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Celta",
+    "versao": "Celta LT 165/70R13 79T 2013",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Agile",
+    "versao": "Agile LTZ 1.4 Flex 185/60R15 Pirelli P7 88H XL 2010",
+    "d0": "28 psi",
+    "t0": "26 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Montana",
+    "versao": "Montana 1.8 Sport 185/60R15 88T XL 2005",
+    "d0": "32 psi",
+    "t0": "28 psi",
+    "d1": "32 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "Celta",
+    "versao": "Celta FLEX 1.0 165/70R13 79T 2012",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Celta",
+    "versao": "Celta 1.0 165/70R13 79T 2012",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Onix",
+    "versao": "Onix Lt 1.4 185/65R15 88H 2014",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Spin",
+    "versao": "Spin LT 2013 195/65R15 91H 2012",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Classic",
+    "versao": "Classic LS 165/70R13 79T 2009",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Prisma",
+    "versao": "Prisma Max 1.4 175/65R14 82T 2007",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Berlingo",
+    "versao": "Berlingo 175/65R14 82T",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "38 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "Jumper",
+    "versao": "Jumper Pneus 195/70R15",
+    "d0": "36 psi",
+    "t0": "60 psi",
+    "d1": "36 psi",
+    "t1": "60 psi"
+  },
+  {
+    "modelo": "Jumper",
+    "versao": "Jumper Pneus 205/70R15",
+    "d0": "39 psi",
+    "t0": "65 psi",
+    "d1": "39 psi",
+    "t1": "65 psi"
+  },
+  {
+    "modelo": "Jumper",
+    "versao": "Jumper Pneus 205/75R15",
+    "d0": "39 psi",
+    "t0": "65 psi",
+    "d1": "39 psi",
+    "t1": "65 psi"
+  },
+  {
+    "modelo": "Zx",
+    "versao": "Zx Pneus 175/65R14",
+    "d0": "31 psi",
+    "t0": "30 psi",
+    "d1": "31 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Zx",
+    "versao": "Zx Pneus 185/60R14",
+    "d0": "31 psi",
+    "t0": "31 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Zx",
+    "versao": "Zx Pneus 195/55R15",
+    "d0": "31 psi",
+    "t0": "33 psi",
+    "d1": "31 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "C4",
+    "versao": "C4 Pallas 215/55R16 93V",
+    "d0": "34 psi",
+    "t0": "32 psi",
+    "d1": "34 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "C4",
+    "versao": "C4 Hatch Sport 2.0 205/55R16 91V 2011",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "C4",
+    "versao": "C4 VTR 2.0 195/65R15 91H 2007",
+    "d0": "33 psi",
+    "t0": "29 psi",
+    "d1": "33 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "C4",
+    "versao": "C4 VTR 195/65R15 91H 2007",
+    "d0": "33 psi",
+    "t0": "29 psi",
+    "d1": "33 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "C3",
+    "versao": "C3 1.6 16v 185/60R15 84H 2005",
+    "d0": "30 psi",
+    "t0": "33 psi",
+    "d1": "30 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "C5",
+    "versao": "C5 Exclusive 2.0 16V 195/65R15 91V 2003",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": 244,
+    "versao": "Todas",
+    "d0": "35 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": 330,
+    "versao": "Todas",
+    "d0": "35 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "PT Cruiser",
+    "versao": "PT Cruiser Sedan 205/55R16 91H 2010",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": 360,
+    "versao": "Todas",
+    "d0": "27 psi",
+    "t0": "30 psi",
+    "d1": "27 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": 456,
+    "versao": "Todas",
+    "d0": "32 psi",
+    "t0": "34 psi",
+    "d1": "32 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": 612,
+    "versao": "Todas",
+    "d0": "28 psi",
+    "t0": "30 psi",
+    "d1": "28 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Doblo",
+    "versao": "Doblo Adventure",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "43 psi"
+  },
+  {
+    "modelo": "Doblo",
+    "versao": "Doblo Cargo",
+    "d0": "33 psi",
+    "t0": "36 psi",
+    "d1": "33 psi",
+    "t1": "43 psi"
+  },
+  {
+    "modelo": "Marea",
+    "versao": "Marea – Exceto Turbo",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Marea",
+    "versao": "Marea Turbo",
+    "d0": "31 psi",
+    "t0": "31 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Palio",
+    "versao": "Palio Hatch",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Palio",
+    "versao": "Palio Pneus Aro 13",
+    "d0": "31 psi",
+    "t0": "31 psi",
+    "d1": "31 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Palio",
+    "versao": "Palio Pneus Aros 14",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Palio",
+    "versao": "Palio Pneus Aros 15",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Palio",
+    "versao": "Palio Adventure",
+    "d0": "31 psi",
+    "t0": "31 psi",
+    "d1": "31 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Siena",
+    "versao": "Siena Pneus Aro 13",
+    "d0": "31 psi",
+    "t0": "31 psi",
+    "d1": "31 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Siena",
+    "versao": "Siena Pneus Aros 14",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Siena",
+    "versao": "Siena Pneus Aros 15",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Stilo",
+    "versao": "Stilo Pneus Aro 15",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Stilo",
+    "versao": "Stilo Pneus Aros 16",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Stilo",
+    "versao": "Stilo Pneus Aros 17",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Tipo",
+    "versao": "Tipo Pneus 175/65R14",
+    "d0": "28 psi",
+    "t0": "27 psi",
+    "d1": "28 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Tipo",
+    "versao": "Tipo Pneus 185/65R14",
+    "d0": "31 psi",
+    "t0": "31 psi",
+    "d1": "34 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Tipo",
+    "versao": "Tipo Pneus 195/60R14",
+    "d0": "36 psi",
+    "t0": "31 psi",
+    "d1": "38 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Uno",
+    "versao": "Uno Pneus 145/80R13",
+    "d0": "24 psi",
+    "t0": "24 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Uno",
+    "versao": "Uno Pneus 165/70R13",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Uno",
+    "versao": "Uno Pneus 185/60R14",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "34 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Palio",
+    "versao": "Palio 1.4 8V ELX 175/65R14 2006",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "31 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Uno",
+    "versao": "Uno Mille Way Mille Way 175/70R13 2012",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": 500,
+    "versao": "500 185/55R15 2011",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "35 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Siena",
+    "versao": "Siena 1.8 8V HLX 175/70R14 84T 2007",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Uno",
+    "versao": "Uno Mille 145/80R13 75T 2004",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Punto",
+    "versao": "Punto 195/60R15 88H",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Punto",
+    "versao": "Punto Essence 1.6 16V Flex 195/55R16 87V",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Freemont",
+    "versao": "Freemont 225/65R17 2011",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Stilo",
+    "versao": "Stilo 1.8 215/50R17 91V 2010",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Palio",
+    "versao": "Palio 1.6 16v Weekend Stile 175/70R14 88H XL 2001",
+    "d0": "27 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Palio",
+    "versao": "Palio 16v 175/65R14 82H 2000",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Siena",
+    "versao": "Siena 1.4 Flex 175/70R14 88T 2007",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Uno",
+    "versao": "Uno Mille 1.0 145/80R13 75T 1991",
+    "d0": "24 psi",
+    "t0": "26 psi",
+    "d1": "25 psi",
+    "t1": "27 psi"
+  },
+  {
+    "modelo": "Strada",
+    "versao": "Strada Adventure 1.8 175/80R14 88T 2004",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "28 psi",
+    "t1": "43 psi"
+  },
+  {
+    "modelo": "Palio",
+    "versao": "Palio Attractive 1.0 175/65R14 82V 2012",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "31 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Novo Palio",
+    "versao": "Novo Palio 1.4 175/65R14 82T 2013",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Bravo",
+    "versao": "Bravo Essence 215/45R17 91V 2011",
+    "d0": "33 psi",
+    "t0": "30 psi",
+    "d1": "36 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Strada",
+    "versao": "Strada Fire 1.4 175/70R14 88T XL 2012",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "28 psi",
+    "t1": "43 psi"
+  },
+  {
+    "modelo": "Novo Palio",
+    "versao": "Novo Palio Attractive 1.0 175/65R14 82T 2012",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Palio",
+    "versao": "PALIO ELX 1.3 175/65R14 82T 2005",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Strada",
+    "versao": "Strada Fire 1.4 175/70R14 88T XL 2011",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Escort",
+    "versao": "Escort Pneus 155/70R13",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "28 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Escort",
+    "versao": "Escort Pneus 175/70R13",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Escort",
+    "versao": "Escort Pneus Aro 14",
+    "d0": "29 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "F-250",
+    "versao": "F-250 Pneus 235/85R16",
+    "d0": "45 psi",
+    "t0": "40 psi",
+    "d1": "50 psi",
+    "t1": "80 psi"
+  },
+  {
+    "modelo": "F-250",
+    "versao": "F-250 Pneus 265/75R16",
+    "d0": "40 psi",
+    "t0": "40 psi",
+    "d1": "45 psi",
+    "t1": "70 psi"
+  },
+  {
+    "modelo": "Fiesta",
+    "versao": "Fiesta Hatch – Pneus Aro 13",
+    "d0": "28 psi",
+    "t0": "26 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Fiesta",
+    "versao": "Fiesta Sedan – Pneus Aro 13",
+    "d0": "29 psi",
+    "t0": "27 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Fiesta",
+    "versao": "Fiesta 1.0 – Pneus 175/65R14",
+    "d0": "26 psi",
+    "t0": "24 psi",
+    "d1": "38 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Fiesta",
+    "versao": "Fiesta 1.3- Pneus 175/65R14",
+    "d0": "29 psi",
+    "t0": "27 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Fiesta",
+    "versao": "Fiesta 1.4 – Pneus 175/65R14",
+    "d0": "29 psi",
+    "t0": "27 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Fiesta",
+    "versao": "Fiesta 1.6 – Pneus 175/65R14",
+    "d0": "29 psi",
+    "t0": "27 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Ka",
+    "versao": "Ka Pneus Aro 13",
+    "d0": "30 psi",
+    "t0": "24 psi",
+    "d1": "31 psi",
+    "t1": "28 psi"
+  },
+  {
+    "modelo": "Ka",
+    "versao": "Ka Pneus Aro 14",
+    "d0": "30 psi",
+    "t0": "28 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Ranger",
+    "versao": "Ranger Pneus Aro 14",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "28 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Ranger",
+    "versao": "Ranger Pneus Aros 15",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Ranger",
+    "versao": "Ranger Pneus Aros 16",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Ranger",
+    "versao": "Ranger XL LT235/75R15 104/101S 2003",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "50 psi"
+  },
+  {
+    "modelo": "Focus",
+    "versao": "Focus 195/60R15 88H 2009",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "32 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Fusion",
+    "versao": "Fusion 2.3 SEL P225/50R17 93V 2008",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Ranger",
+    "versao": "Ranger 2.5 Gasolina 4×2 LT235/75R15 104R 1999",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "45 psi",
+    "t1": "50 psi"
+  },
+  {
+    "modelo": "Fusion",
+    "versao": "Fusion SEL 2.5 225/50R17 98V XL 2010",
+    "d0": "31 psi",
+    "t0": "31 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Fiesta",
+    "versao": "Fiesta Rocam Hatch 1.6 175/65R14 82H 2012",
+    "d0": "31 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Focus",
+    "versao": "Focus Hatch GLX 205/55R16 91V 2012",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "Landau",
+    "versao": "Landau Landau 215/70R15 1979",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "26 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Hatch Maxx 175/65R14 82T 2011",
+    "d0": "32 psi",
+    "t0": "28 psi",
+    "d1": "34 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Celta",
+    "versao": "Celta VHC 1.0 165/70R13 79T 2003",
+    "d0": "31 psi",
+    "t0": "25 psi",
+    "d1": "31 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Kadett",
+    "versao": "Kadet GL 185/70R13 86T 1996",
+    "d0": "28 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Super 175/70R13 82T 1997",
+    "d0": "28 psi",
+    "t0": "30 psi",
+    "d1": "25 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Corsa",
+    "versao": "Corsa Hatch 1.4 175/65R14 82T 2011",
+    "d0": "34 psi",
+    "t0": "32 psi",
+    "d1": "34 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Agile",
+    "versao": "Agile LTZ 185/60R15 88H 2009",
+    "d0": "28 psi",
+    "t0": "26 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Agile",
+    "versao": "Agile LTZ 185/60R15 88H XL 2009",
+    "d0": "28 psi",
+    "t0": "26 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Onix",
+    "versao": "Onix 1.0 LT 185/70R14 88H 2013",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Captiva",
+    "versao": "Captiva Sport V6AWD 235/60R17 100H 2011",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic Coupe – Pneus 175/70R13",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic Coupe – Pneus 185/65R14",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic Crx",
+    "d0": "35 psi",
+    "t0": "33 psi",
+    "d1": "35 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic Hatch – Pneus 175/70R14",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic Hatch – Pneus 195/60R14",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic Hatch – Pneus 195/55R15",
+    "d0": "35 psi",
+    "t0": "33 psi",
+    "d1": "36 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic Sedan – Pneus 185/65R14",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic Sedan – Pneus 185/65R15",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic Sedan – Pneus 205/55R16",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic Sedan – Pneus 205/55R17",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic LX 1.6 185/65R14 85T 1999",
+    "d0": "30 psi",
+    "t0": "29 psi",
+    "d1": "30 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "City",
+    "versao": "City 1.5 16v 185/55R16 83H 2009",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Fit G2",
+    "versao": "New Fit LX 1.4 175/65R15 84T 2009",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic LX 1.7 185/65R15 88H 2002",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "City",
+    "versao": "City DX 175/65R15 84H 2011",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Fit G2",
+    "versao": "Fit Ex 185/55R16 83V 2010",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Fit G1",
+    "versao": "Fit LXL 1.4 175/65R14 82T 2005",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Fit G1",
+    "versao": "Fit EX 1.5 16V 175/65R14 82T 2008",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Fit G2",
+    "versao": "New Fit 1.5 Manual 185/55R16 83H 2010",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Accord",
+    "versao": "Accord LX 2.0 215/60R16 95H 2009",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Fit G1",
+    "versao": "Fit 1.5 EX 175/65R14 82T 2006",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "City",
+    "versao": "City LX 1.5 Aut 175/65R15 84T 2012",
+    "d0": "30 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Fit G1",
+    "versao": "Fit LX 175/65R14 82T 2007",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "City",
+    "versao": "City LX 175/65R15 84T 2011",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "City",
+    "versao": "City LX 1.5 Automático 175/65R15 84H 2011",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "City",
+    "versao": "City EX 185/55R16 83H 2011",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "City",
+    "versao": "City Dx 175/65R15 84T 2011",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Fit",
+    "versao": "Fit Ex 1.5 CVT 175/65R14 82T 2008",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Civic",
+    "versao": "Civic 1.7 LXL Automatico 185/65R15 88H 2003",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "FIT",
+    "versao": "FIT EX 175/65R14 82T 2008",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Atos",
+    "versao": "Atos Prime",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "H-1",
+    "versao": "H-1 Pneus 195/70R14",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "H-1",
+    "versao": "H-1 Pneus 205/70R15",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "H100",
+    "versao": "H100 Pneus 185R14",
+    "d0": "60 psi",
+    "t0": "60 psi",
+    "d1": "60 psi",
+    "t1": "60 psi"
+  },
+  {
+    "modelo": "H100",
+    "versao": "H100 Pneus 195R14",
+    "d0": "40 psi",
+    "t0": "40 psi",
+    "d1": "40 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Sonata",
+    "versao": "Sonata Pneus Aros 14",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Sonata",
+    "versao": "Sonata Pneus Aros 15",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Sonata",
+    "versao": "Sonata Pneus Aro 16",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Elantra",
+    "versao": "Elantra 1.8L 215/45R17 87H 2012",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "i30",
+    "versao": "i30 2.0 225/45R17 91V 2011",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Tucson",
+    "versao": "Tucson 2.0 235/60R16 100H 2009",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "HB20",
+    "versao": "HB20 Comfort Plus 175/70R14 84T 2012",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "i30",
+    "versao": "i30 GLS 2.0 225/45R17 91V 2012",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "i30",
+    "versao": "i30 CW 225/45R17 94W XL 2010",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "i30",
+    "versao": "i30 2.0 GLS Automatico 225/45R17 91V 2011",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Azera",
+    "versao": "Azera V6 235/55R17 98V 2011",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Sonata",
+    "versao": "Sonata GLS 2.4 225/45R18 95V XL 2010",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "HB20",
+    "versao": "HB20 Confort Plus 1.0 175/70R14 84T 2013",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "HB20",
+    "versao": "HB20 Comfort 175/70R14 84T 2014",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "ix35",
+    "versao": "ix35 2.0 225/55R18 98H 2011",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "HB20",
+    "versao": "HB20 Confort Style 175/70R14 84T 2014",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "HB20",
+    "versao": "HB20 Confort Style 1.0 175/70R14 84T 2014",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "34 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Daily",
+    "versao": "Daily Pneus 195/75R16",
+    "d0": "62 psi",
+    "t0": "51 psi",
+    "d1": "62 psi",
+    "t1": "51 psi"
+  },
+  {
+    "modelo": "Daily",
+    "versao": "Daily Pneus 205/75R16",
+    "d0": "58 psi",
+    "t0": "76 psi",
+    "d1": "58 psi",
+    "t1": "76 psi"
+  },
+  {
+    "modelo": "Daily",
+    "versao": "Daily Pneus 215/75R16",
+    "d0": "58 psi",
+    "t0": "76 psi",
+    "d1": "58 psi",
+    "t1": "76 psi"
+  },
+  {
+    "modelo": "Daily",
+    "versao": "Daily Pneus 225/75R16",
+    "d0": "58 psi",
+    "t0": "76 psi",
+    "d1": "58 psi",
+    "t1": "76 psi"
+  },
+  {
+    "modelo": "Daily",
+    "versao": "Daily Pneus 7.50R16",
+    "d0": "58 psi",
+    "t0": "76 psi",
+    "d1": "58 psi",
+    "t1": "76 psi"
+  },
+  {
+    "modelo": "Scudato",
+    "versao": "Scudato Pneus 195/75R16",
+    "d0": "62 psi",
+    "t0": "51 psi",
+    "d1": "62 psi",
+    "t1": "51 psi"
+  },
+  {
+    "modelo": "Scudato",
+    "versao": "Scudato Pneus 225/75R16",
+    "d0": "58 psi",
+    "t0": "76 psi",
+    "d1": "58 psi",
+    "t1": "76 psi"
+  },
+  {
+    "modelo": "Xj Series",
+    "versao": "Xj Series 6.0",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "34 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Xj Series",
+    "versao": "Xj Series 4.0",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "32 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Xj Series",
+    "versao": "Xj Series 4.2",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "32 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Magentis",
+    "versao": "Magentis Pneus Aros 15",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Magentis",
+    "versao": "Magentis Pneus Aro 16",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Picanto",
+    "versao": "Picanto Ex 165/60R14 75T 2010",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Picanto",
+    "versao": "Picanto 1.0 8V EX FLEX AUTO III 165/60R14 75H 2012",
+    "d0": "33 psi",
+    "t0": "31 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Range Rover",
+    "versao": "Range Rover Sport",
+    "d0": "33 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "Range Rover",
+    "versao": "Range Rover Sport Supercharger 275/40R20 106Y",
+    "d0": "38 psi",
+    "t0": "42 psi",
+    "d1": "38 psi",
+    "t1": "42 psi"
+  },
+  {
+    "modelo": "Quattroporte",
+    "versao": "Quattroporte Pneus Aro 17",
+    "d0": "34 psi",
+    "t0": "34 psi",
+    "d1": "40 psi",
+    "t1": "46 psi"
+  },
+  {
+    "modelo": "Quattroporte",
+    "versao": "Quattroporte Pneus Aro 18",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "40 psi",
+    "t1": "46 psi"
+  },
+  {
+    "modelo": 626,
+    "versao": "626 Pneus Medidas 185/65R14",
+    "d0": "29 psi",
+    "t0": "26 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": 626,
+    "versao": "626 Pneus Medidas 195/60R15",
+    "d0": "29 psi",
+    "t0": "26 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": 626,
+    "versao": "626 Pneus 205/55R15",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Classe A",
+    "versao": "Classe A Pneus Aro 15",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "32 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Classe A",
+    "versao": "Classe A Pneus Aro 16",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "32 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Classe C",
+    "versao": "Classe C Hatch",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Classe C",
+    "versao": "Classe C Sedan – Exceto Amg",
+    "d0": "30 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "Classe C",
+    "versao": "Classe C 32 Amg Sedan",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe C",
+    "versao": "Classe C 36 Amg Sedan",
+    "d0": "35 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "46 psi"
+  },
+  {
+    "modelo": "Classe C",
+    "versao": "Classe C 43 Amg Sedan",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe C",
+    "versao": "Classe C 55 Amg Sedan",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe C",
+    "versao": "Classe C Touring – Exceto Amg",
+    "d0": "28 psi",
+    "t0": "36 psi",
+    "d1": "32 psi",
+    "t1": "45 psi"
+  },
+  {
+    "modelo": "Classe C",
+    "versao": "Classe C Amg Touring",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe E",
+    "versao": "Classe E Cabriolet",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "46 psi"
+  },
+  {
+    "modelo": "Classe E",
+    "versao": "Classe E Sedan – Exceto Amg",
+    "d0": "35 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "46 psi"
+  },
+  {
+    "modelo": "Classe E",
+    "versao": "Classe E Amg Sedan",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "30 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Classe E",
+    "versao": "Classe E Touring – Exceto Amg",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "39 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Classe E",
+    "versao": "Classe E Amg Touring",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Classe R",
+    "versao": "Classe R R 350",
+    "d0": "35 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe S",
+    "versao": "Classe S 280",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "39 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe S",
+    "versao": "Classe S 320",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "39 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe S",
+    "versao": "Classe S 350",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "39 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe S",
+    "versao": "Classe S 500",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "39 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe S",
+    "versao": "Classe S 55 Amg",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "39 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe S",
+    "versao": "Classe S 600",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "39 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Classe S",
+    "versao": "Classe S 65Amg",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "39 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Sl 500",
+    "versao": "Sl 500 55Amg",
+    "d0": "30 psi",
+    "t0": "33 psi",
+    "d1": "30 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "L200",
+    "versao": "L200 Pneus Aro 15",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "30 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "L200",
+    "versao": "L200 Pneus Aro 16 – Exceto 265/70R16",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "L200",
+    "versao": "L200 Pneus 265/70R16",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Lancer",
+    "versao": "Lancer – Exceto Evolution",
+    "d0": "30 psi",
+    "t0": "29 psi",
+    "d1": "30 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Lancer",
+    "versao": "Lancer Evolution",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "32 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Pajero",
+    "versao": "Pajero – Exceto 205/70R16",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Pajero",
+    "versao": "Pajero Pneus 205/70R16",
+    "d0": "26 psi",
+    "t0": "29 psi",
+    "d1": "26 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Pajero",
+    "versao": "Pajero Io",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "26 psi"
+  },
+  {
+    "modelo": "Pajero",
+    "versao": "Pajero Sport Pneus 265/70R15",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Pajero",
+    "versao": "Pajero Sport Pneus 265/70R16",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Pajero",
+    "versao": "Pajero Tr4",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "26 psi"
+  },
+  {
+    "modelo": "L200",
+    "versao": "L200 Sport HPE P265/70R16 112T 2005",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "L200",
+    "versao": "L200 Triton HPE 3.5 Flex v6 P265/70R16 112H 2011",
+    "d0": "26 psi",
+    "t0": "28 psi",
+    "d1": "26 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Airtrek",
+    "versao": "Airtrek 2.4 Mivec 215/55R17 94V 2008",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "39 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Pathfinder",
+    "versao": "Pathfinder Pneus Aros 15",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "26 psi"
+  },
+  {
+    "modelo": "Pathfinder",
+    "versao": "Pathfinder Pneus Aros 16",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "26 psi"
+  },
+  {
+    "modelo": "Pathfinder",
+    "versao": "Pathfinder Pneus Aro 17",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Sentra",
+    "versao": "Sentra Pneus 175/70R13",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Sentra",
+    "versao": "Sentra Pneus 195/60R15",
+    "d0": "26 psi",
+    "t0": "23 psi",
+    "d1": "26 psi",
+    "t1": "23 psi"
+  },
+  {
+    "modelo": "Sentra",
+    "versao": "Sentra 2.0 205/55R16 91V",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "March",
+    "versao": "March 165/70R14 81T 2011",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "March",
+    "versao": "March 1.6S 165/70R14 81T 2013",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Livina",
+    "versao": "Livina 1.8 SL 185/65R15 88H 2009",
+    "d0": "33 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "March",
+    "versao": "March 1.6 16V 175/60R15 81H 2012",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Tiida",
+    "versao": "Tiida Sedan 1.8 Flex 185/65R15 88H 2011",
+    "d0": "33 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Sentra",
+    "versao": "Sentra 2.0 SL 205/55R16 91V 2008",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Sentra",
+    "versao": "Sentra 2.0 SL P205/55R16 89H 2008",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Tiida",
+    "versao": "Tiida SL 16V Auto 1.8 185/65R15 88H 2008",
+    "d0": "33 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "March",
+    "versao": "March SV 1.6 175/60R15 81H 2012",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "March",
+    "versao": "March 1.6 SV 175/60R15 81H 2012",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "March",
+    "versao": "March 1.6SV 175/60R15 82H 2013",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Micra",
+    "versao": "Micra 1.2 165/70R14 81S 2010",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "March",
+    "versao": "March 1.6 SR 175/60R15 81H 2014",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Tiida",
+    "versao": "Tiida Hatch SL 1.8 Manual 195/55R16 86H 2011",
+    "d0": "33 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": 106,
+    "versao": "Todas",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": 205,
+    "versao": "Todas",
+    "d0": "28 psi",
+    "t0": "30 psi",
+    "d1": "28 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": 206,
+    "versao": "206 Cabriolet",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 206,
+    "versao": "206 Hatch",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 206,
+    "versao": "206 Sw",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 206,
+    "versao": "206 Sw Escapade",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 306,
+    "versao": "306 Cabriolet",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": 306,
+    "versao": "306 Hatch – Pneus 175/65R14",
+    "d0": "29 psi",
+    "t0": "30 psi",
+    "d1": "29 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": 306,
+    "versao": "306 Hatch – Pneus 185/60R14",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": 306,
+    "versao": "306 Hatch – Pneus 185/60R15",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": 306,
+    "versao": "306 Hatch – Pneus 185/65R14",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": 306,
+    "versao": "306 Hatch – Pneus 195/55R15",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": 306,
+    "versao": "306 Sedan",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": 306,
+    "versao": "306 Wagon",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": 307,
+    "versao": "307 Cabriolet",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": 307,
+    "versao": "307 Hatch",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 307,
+    "versao": "307 Sedan",
+    "d0": "33 psi",
+    "t0": "32 psi",
+    "d1": "33 psi",
+    "t1": "46 psi"
+  },
+  {
+    "modelo": 307,
+    "versao": "307 Sw",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "46 psi"
+  },
+  {
+    "modelo": 405,
+    "versao": "Todas",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": 406,
+    "versao": "406 Coupe",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": 406,
+    "versao": "406 Sedan – 2.0",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": 406,
+    "versao": "406 Wagon – 2.0",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": 406,
+    "versao": "406 Sedan – 3.0",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": 407,
+    "versao": "407 Coupe",
+    "d0": "36 psi",
+    "t0": "33 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": 407,
+    "versao": "407 Sedan – 2.0",
+    "d0": "36 psi",
+    "t0": "33 psi",
+    "d1": "36 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": 407,
+    "versao": "407 Sedan – 3.0",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "38 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": 407,
+    "versao": "407 Sw Wagon – 2.0",
+    "d0": "36 psi",
+    "t0": "33 psi",
+    "d1": "36 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": 407,
+    "versao": "407 Sw Wagon – 3.0",
+    "d0": "38 psi",
+    "t0": "38 psi",
+    "d1": "38 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": 504,
+    "versao": "Todas",
+    "d0": "23 psi",
+    "t0": "35 psi",
+    "d1": "26 psi",
+    "t1": "65 psi"
+  },
+  {
+    "modelo": 605,
+    "versao": "Todas",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": 607,
+    "versao": "Todas",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": 806,
+    "versao": "Todas",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": 807,
+    "versao": "Todas",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Boxer",
+    "versao": "Boxer Pneus Aro 15",
+    "d0": "59 psi",
+    "t0": "65 psi",
+    "d1": "59 psi",
+    "t1": "65 psi"
+  },
+  {
+    "modelo": "Boxer",
+    "versao": "Boxer Pneus Aro 16",
+    "d0": "65 psi",
+    "t0": "69 psi",
+    "d1": "65 psi",
+    "t1": "69 psi"
+  },
+  {
+    "modelo": 207,
+    "versao": "207 SW 185/65R14",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 207,
+    "versao": "207 207 XS 1.6 185/60R15 84H 2010",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 206,
+    "versao": "206 1.4 175/65R14 82H",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": 207,
+    "versao": "207 HB XR 1.4 185/65R14 86H 2011",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 406,
+    "versao": "406 3.0 205/60R15 91V 2001",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": 408,
+    "versao": "408 2.0 205/55R16 91V 2011",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "33 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": 206,
+    "versao": "206 SW 1.4 PRESENCE 175/65R14 82H 2006",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 207,
+    "versao": "207 XR 1.4 185/65R14 86H 2010",
+    "d0": "33 psi",
+    "t0": "35 psi",
+    "d1": "33 psi",
+    "t1": "46 psi"
+  },
+  {
+    "modelo": 408,
+    "versao": "408 Allure 202/55R16 91V 2012",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "34 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": 307,
+    "versao": "307 Sedan 2.0 16v Feline 195/65R15 91H 2007",
+    "d0": "31 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": 307,
+    "versao": "307 Sedan Feline 205/55R16 91V 2008",
+    "d0": "33 psi",
+    "t0": "33 psi",
+    "d1": "33 psi",
+    "t1": "46 psi"
+  },
+  {
+    "modelo": 307,
+    "versao": "307 1.6 Presence Pack 16v Flex 4p Manual 195/65R15 91V 2008",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 911,
+    "versao": "Todas",
+    "d0": "36 psi",
+    "t0": "44 psi",
+    "d1": "36 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": 19,
+    "versao": "19 Pneus Aros 14",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": 19,
+    "versao": "19 Pneus Aros 15",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": 19,
+    "versao": "19 Pneus Aro 13",
+    "d0": "23 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": 21,
+    "versao": "Todas",
+    "d0": "28 psi",
+    "t0": "29 psi",
+    "d1": "30 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Clio",
+    "versao": "Clio Pneus 155/80R13",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "32 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Clio",
+    "versao": "Clio Pneus 165/70R14 ate 2002",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Clio",
+    "versao": "Clio Pneus 165/70R14",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "32 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Clio",
+    "versao": "Clio Pneus 175/65R14 ate 2002",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "33 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Clio",
+    "versao": "Clio Pneus 175/65R14 desde 2003",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Clio",
+    "versao": "Clio Pneus 185/55R15",
+    "d0": "32 psi",
+    "t0": "39 psi",
+    "d1": "33 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Clio",
+    "versao": "Clio Pneus 185/60R14",
+    "d0": "32 psi",
+    "t0": "39 psi",
+    "d1": "33 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Clio",
+    "versao": "Clio Pneus 185/65R14",
+    "d0": "31 psi",
+    "t0": "28 psi",
+    "d1": "33 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Mégane",
+    "versao": "Mégane Grand Tour 205/55R16",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "33 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Symbol",
+    "versao": "Symbol Privilege 1.6 185/55R15 82V 2011",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "0 psi",
+    "t1": "0 psi"
+  },
+  {
+    "modelo": "Duster",
+    "versao": "Duster 1.6 16V 215/65R16 98T 2011",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Duster",
+    "versao": "Duster 1.6 16V 215/65R16 98T 2012",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Fluence",
+    "versao": "Fluence Dynamic 205/60R16 92H 2012",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Logan",
+    "versao": "Logan 1.6 8V 185/65R15 88T 2008",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "33 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Fluence",
+    "versao": "Fluence 2.0 16v 205/60R16 2013",
+    "d0": "33 psi",
+    "t0": "31 psi",
+    "d1": "33 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Logan",
+    "versao": "Logan 1.6 8v Hi-torque 185/70R14 88H 2008",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "30 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Gran",
+    "versao": "Gran Tour 2.0 16v 205/55R16 91V 2008",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "33 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Duster",
+    "versao": "Duster Dinamic 215/65R16 98S 2013",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Symbol",
+    "versao": "Symbol Top 185/55R15 82H 2012",
+    "d0": "30 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Symbol",
+    "versao": "Symbol Top (1.6) 185/55R15 82H 2012",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "34 psi",
+    "t1": "31 psi"
+  },
+  {
+    "modelo": "Sandero",
+    "versao": "Sandero Privilege 1.6 16v 185/65R15 88T 2008",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Fluence",
+    "versao": "Fluence Dyn 2.0 205/60R16 92H 2011",
+    "d0": "35 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Logan",
+    "versao": "Logan 1.6 185/65R15 88T 2009",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "32 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Ibiza",
+    "versao": "Ibiza Pneus 175/70R13",
+    "d0": "30 psi",
+    "t0": "26 psi",
+    "d1": "32 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Ibiza",
+    "versao": "Ibiza Pneus 185/60R14",
+    "d0": "32 psi",
+    "t0": "28 psi",
+    "d1": "33 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Ibiza",
+    "versao": "Ibiza 1.6 TDI 185/60R15 84H 2011",
+    "d0": "29 psi",
+    "t0": "28 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Fortwo",
+    "versao": "Fortwo Cabrio 175/55R15 77T 2009",
+    "d0": "29 psi",
+    "t0": "36 psi",
+    "d1": "29 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Musso",
+    "versao": "Musso Sports",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Impreza",
+    "versao": "Impreza Exceto Turbo",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "32 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Impreza",
+    "versao": "Impreza Turbo",
+    "d0": "33 psi",
+    "t0": "32 psi",
+    "d1": "33 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Legacy",
+    "versao": "Legacy ate 2004",
+    "d0": "30 psi",
+    "t0": "29 psi",
+    "d1": "30 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Legacy",
+    "versao": "Legacy desde 2005",
+    "d0": "33 psi",
+    "t0": "32 psi",
+    "d1": "33 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Grand Vitara",
+    "versao": "Grand Vitara 3 Portas",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Grand Vitara",
+    "versao": "Grand Vitara 5 Portas",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Grand Vitara",
+    "versao": "Grand Vitara Xl-7",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Vitara",
+    "versao": "Vitara 1.6 JLX P205/75R15 1994",
+    "d0": "23 psi",
+    "t0": "23 psi",
+    "d1": "23 psi",
+    "t1": "23 psi"
+  },
+  {
+    "modelo": "Hilux",
+    "versao": "Hilux 2001 4X2 ate 2004",
+    "d0": "28 psi",
+    "t0": "34 psi",
+    "d1": "28 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Hilux",
+    "versao": "Hilux 1996 4X4 ate 2004",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Hilux",
+    "versao": "Hilux Pneus 255/70R15",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Hilux",
+    "versao": "Hilux Pneus 205/70R16",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Hilux",
+    "versao": "Hilux ate 2004",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Hilux",
+    "versao": "Hilux Sw4 desde 2005",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Hilux",
+    "versao": "Hilux Sw4",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Rav4",
+    "versao": "Rav4 215/70R16 2005",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Corolla",
+    "versao": "Corolla XEI 195/60R15 88H 2006",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Corolla",
+    "versao": "Corolla XEI 195/60R15 88H 2005",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Hilux",
+    "versao": "Hilux Hilux SRV 3.0 P265/70R16 112S 2010",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "29 psi"
+  },
+  {
+    "modelo": "Corolla",
+    "versao": "Corolla XEI 1.8 MT 185/65R14 88H 1999",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Amarok",
+    "versao": "Amarok P245/70R16 107T",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "0 psi",
+    "t1": "0 psi"
+  },
+  {
+    "modelo": "Fusca",
+    "versao": "Fusca Pneus 185/70R14",
+    "d0": "16 psi",
+    "t0": "20 psi",
+    "d1": "17 psi",
+    "t1": "24 psi"
+  },
+  {
+    "modelo": "Fusca",
+    "versao": "Fusca Pneus 5.90X14",
+    "d0": "24 psi",
+    "t0": "26 psi",
+    "d1": "24 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol Pneus 145/80R13",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol 1.0 – Pneus 175/70R13",
+    "d0": "27 psi",
+    "t0": "28 psi",
+    "d1": "28 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol 1.6 – Pneus 175/70R13",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol 1.8 – Pneus 175/70R13",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol 2.0 – Pneus 175/70R13",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "29 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol Pneus Aro 14",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol Pneus Aro 15",
+    "d0": "35 psi",
+    "t0": "32 psi",
+    "d1": "38 psi",
+    "t1": "43 psi"
+  },
+  {
+    "modelo": "Golf",
+    "versao": "Golf Cabriolet",
+    "d0": "35 psi",
+    "t0": "32 psi",
+    "d1": "38 psi",
+    "t1": "43 psi"
+  },
+  {
+    "modelo": "Golf",
+    "versao": "Golf Pneus 175/80R14",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "32 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Golf",
+    "versao": "Golf 1.8 Exceto Gti – Pneus 185/60R14 ate 1998",
+    "d0": "30 psi",
+    "t0": "28 psi",
+    "d1": "35 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Golf",
+    "versao": "Golf 2.0 Exceto Gti – Pneus 185/60R14 ate 1998",
+    "d0": "30 psi",
+    "t0": "28 psi",
+    "d1": "35 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Golf",
+    "versao": "Golf Gti – Pneus 185/60R14 ate 1998",
+    "d0": "33 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Golf",
+    "versao": "Golf Pneus Aro 15",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "30 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Golf",
+    "versao": "Golf Pneus Aro 16",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "30 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Golf",
+    "versao": "Golf Pneus Aro 17",
+    "d0": "38 psi",
+    "t0": "35 psi",
+    "d1": "40 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Kombi",
+    "versao": "Kombi Pneus 185/80R14",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "34 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Kombi",
+    "versao": "Kombi Pneus 7.35X14",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Logus",
+    "versao": "Logus Pneus Aro 13",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "28 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Logus",
+    "versao": "Logus Pneus Aro 14",
+    "d0": "29 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Parati",
+    "versao": "Parati Pneus 175/70R13",
+    "d0": "26 psi",
+    "t0": "29 psi",
+    "d1": "27 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Parati",
+    "versao": "Parati Pneus 175/70R14",
+    "d0": "26 psi",
+    "t0": "29 psi",
+    "d1": "27 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Parati",
+    "versao": "Parati Pneus 185/60R14",
+    "d0": "27 psi",
+    "t0": "29 psi",
+    "d1": "28 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Parati",
+    "versao": "Parati Pneus Aro 15",
+    "d0": "27 psi",
+    "t0": "29 psi",
+    "d1": "28 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 2.0 – Pneus 195/60R14 ate 1997",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 1.8 Pneus 195/65R15 ate 2004",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "29 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 1.8 Pneus 205/60R15 ate 2004",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "29 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 2.0 Pneus 195/65R15 ate 2004",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "29 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 2.0 Pneus 205/60R15 ate 2004",
+    "d0": "29 psi",
+    "t0": "32 psi",
+    "d1": "29 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 1.8 Turbo – Pneus 195/65R15 ate 2004",
+    "d0": "33 psi",
+    "t0": "36 psi",
+    "d1": "33 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 1.8 Turbo – Pneus 205/60R16 ate 2004",
+    "d0": "33 psi",
+    "t0": "36 psi",
+    "d1": "33 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 2.8 V6 – Pneus 195/65R15 ate 2004",
+    "d0": "33 psi",
+    "t0": "36 psi",
+    "d1": "33 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 2.8 V6 – Pneus 205/60R16 ate 2004",
+    "d0": "33 psi",
+    "t0": "36 psi",
+    "d1": "33 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 2.8 VR6 – Pneus 205/50R15 Ate 1997",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "39 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 2.0 – Pneus 215/55R16",
+    "d0": "33 psi",
+    "t0": "36 psi",
+    "d1": "33 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 2.0 Turbo – Pneus 235/45R17",
+    "d0": "33 psi",
+    "t0": "36 psi",
+    "d1": "33 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 2.0 – Pneus 195/60R14 ate 1997",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 1.8 – Pneus 195/65R15 ate 2004",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 1.8 – Pneus 205/60R15 ate 2004",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 2.0 – Pneus 195/65R15",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 2.0 – Pneus 205/60R15",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 1.8 Turbo – Pneus 195/65R15 ate 2004",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 1.8 Turbo – Pneus 205/60R16 ate 2004",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 2.8 V6 – Pneus 195/65R15 ate 2004",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 2.8 V6 – Pneus 205/60R16 ate 2004",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 2.8 Vr6 – Pneus 205/50R15 ate 1997",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "36 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 2.0 – Pneus 215/55R16",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "39 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat Variant 2.0 Turbo – Pneus 235/45R17",
+    "d0": "36 psi",
+    "t0": "36 psi",
+    "d1": "39 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": "Polo",
+    "versao": "Polo Classic 1.8 185/60R14 1999",
+    "d0": "32 psi",
+    "t0": "28 psi",
+    "d1": "33 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Polo",
+    "versao": "Polo Hatch – Pneus 195/55R15",
+    "d0": "30 psi",
+    "t0": "33 psi",
+    "d1": "31 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Polo",
+    "versao": "Polo Sedan – Pneus 185/60R14",
+    "d0": "32 psi",
+    "t0": "28 psi",
+    "d1": "33 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Polo",
+    "versao": "Polo Sedan – Pneus 195/55R15",
+    "d0": "28 psi",
+    "t0": "31 psi",
+    "d1": "30 psi",
+    "t1": "37 psi"
+  },
+  {
+    "modelo": "Saveiro",
+    "versao": "Saveiro Pneus Aro 13",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Saveiro",
+    "versao": "Saveiro Pneus Aro 14",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "27 psi",
+    "t1": "43 psi"
+  },
+  {
+    "modelo": "Saveiro",
+    "versao": "Saveiro Pneus Aro 15",
+    "d0": "27 psi",
+    "t0": "28 psi",
+    "d1": "27 psi",
+    "t1": "43 psi"
+  },
+  {
+    "modelo": "Voyage",
+    "versao": "Voyage Pneus 175/70R13",
+    "d0": "24 psi",
+    "t0": "26 psi",
+    "d1": "24 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Voyage",
+    "versao": "Voyage Pneus 185/65R13",
+    "d0": "26 psi",
+    "t0": "26 psi",
+    "d1": "26 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Voyage",
+    "versao": "Voyage 1.0 175/70R14 2009",
+    "d0": "30 psi",
+    "t0": "31 psi",
+    "d1": "32 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Fusca",
+    "versao": "Fusca Fusca 165/80R15 87T",
+    "d0": "17 psi",
+    "t0": "17 psi",
+    "d1": "20 psi",
+    "t1": "20 psi"
+  },
+  {
+    "modelo": "Polo",
+    "versao": "Polo Polo Hatch – Pneus 185/60R14",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "37 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol G5 1.0 175/70R14 2010",
+    "d0": "30 psi",
+    "t0": "31 psi",
+    "d1": "32 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Fox",
+    "versao": "Fox 1.6 195/55R15 2010",
+    "d0": "29 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Passat",
+    "versao": "Passat 2.0 8V 195/60R14 1996",
+    "d0": "32 psi",
+    "t0": "32 psi",
+    "d1": "35 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol Power 1.6 195/55R15 85H 2011",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "31 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol G5 Power 1.6 195/55R15 85H",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "31 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "Saveiro",
+    "versao": "Saveiro 1.6 CE 175/70R14 88T 2012",
+    "d0": "29 psi",
+    "t0": "31 psi",
+    "d1": "31 psi",
+    "t1": "43 psi"
+  },
+  {
+    "modelo": "Saveiro",
+    "versao": "Saveiro 1.6 CE 205/60R15 91H 2012",
+    "d0": "30 psi",
+    "t0": "41 psi",
+    "d1": "30 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Logus",
+    "versao": "Logus Pneus Aro 13 175/70R13 82T",
+    "d0": "28 psi",
+    "t0": "26 psi",
+    "d1": "30 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Golf",
+    "versao": "Golf Glx 2.0 185/60R14 82H 1995",
+    "d0": "33 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Quantum",
+    "versao": "Quantum 2.0 175/70R14 84T 1990",
+    "d0": "30 psi",
+    "t0": "31 psi",
+    "d1": "32 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Fox",
+    "versao": "Fox 1.0 195/55R15 85H 2009",
+    "d0": "27 psi",
+    "t0": "27 psi",
+    "d1": "28 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "Polo",
+    "versao": "Polo Hatch 1.6 195/55R15 85H 2008",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "37 psi"
+  },
+  {
+    "modelo": "Voyage",
+    "versao": "Voyage Comfortline 195/55R15 85H 2011",
+    "d0": "29 psi",
+    "t0": "31 psi",
+    "d1": "31 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Polo",
+    "versao": "Polo 1.6 185/60R14 82H 2003",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Golf",
+    "versao": "Golf 2.0 195/65R15 91V 2010",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "30 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "Voyage",
+    "versao": "Voyage Comfortline 1.6 195/55R15 85V 2012",
+    "d0": "29 psi",
+    "t0": "31 psi",
+    "d1": "31 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol PLUS 1.0 145/80R13 75T 2001",
+    "d0": "28 psi",
+    "t0": "30 psi",
+    "d1": "30 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Voyage",
+    "versao": "Voyage GL 1.8 4P 175/70R13 82T 1995",
+    "d0": "24 psi",
+    "t0": "26 psi",
+    "d1": "24 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Polo",
+    "versao": "Polo 2.0 GT 195/55R15 85H 2011",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "30 psi",
+    "t1": "37 psi"
+  },
+  {
+    "modelo": "Saveiro",
+    "versao": "Saveiro Cross 1.6 205/60R15 2011",
+    "d0": "30 psi",
+    "t0": "30 psi",
+    "d1": "31 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Jetta",
+    "versao": "Jetta TSI Tiptronic 225/45R17 94W XL 2012",
+    "d0": "30 psi",
+    "t0": "28 psi",
+    "d1": "30 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol 1000 145/80R13 82T 1994",
+    "d0": "26 psi",
+    "t0": "28 psi",
+    "d1": "28 psi",
+    "t1": "32 psi"
+  },
+  {
+    "modelo": "Bora",
+    "versao": "Bora Tiptronic 205/55R16 91W 2010",
+    "d0": "33 psi",
+    "t0": "44 psi",
+    "d1": "44 psi",
+    "t1": "65 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol Power 195/55R15 85H 2010",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "28 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol GL 1.8 175/70R13 82T 1990",
+    "d0": "24 psi",
+    "t0": "26 psi",
+    "d1": "24 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Santana",
+    "versao": "Santana 2.0 185/65R14 86T 1996",
+    "d0": "26 psi",
+    "t0": "28 psi",
+    "d1": "28 psi",
+    "t1": "34 psi"
+  },
+  {
+    "modelo": "Amarok",
+    "versao": "Amarok CD 255/60R18 112T 2011",
+    "d0": "29 psi",
+    "t0": "29 psi",
+    "d1": "29 psi",
+    "t1": "44 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol Trend 1.6 175/70R14 84T 2012",
+    "d0": "30 psi",
+    "t0": "31 psi",
+    "d1": "32 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Tiguan",
+    "versao": "Tiguan 2.0 TSi 235/50R18 91V 2011",
+    "d0": "32 psi",
+    "t0": "35 psi",
+    "d1": "36 psi",
+    "t1": "39 psi"
+  },
+  {
+    "modelo": "Spacefox",
+    "versao": "Spacefox Sportline 195/55R15 84V 2010",
+    "d0": "28 psi",
+    "t0": "34 psi",
+    "d1": "32 psi",
+    "t1": "40 psi"
+  },
+  {
+    "modelo": "Fox",
+    "versao": "Fox Plus 1.0 5P 175/65R14 82H 2006",
+    "d0": "29 psi",
+    "t0": "28 psi",
+    "d1": "31 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "Gol",
+    "versao": "Gol CLI 1.6 175/70R13 82T 1995",
+    "d0": "26 psi",
+    "t0": "30 psi",
+    "d1": "26 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": "Fusca",
+    "versao": "FUSCA / ITAMAR 1600 165R15 86T 1994",
+    "d0": "17 psi",
+    "t0": "22 psi",
+    "d1": "20 psi",
+    "t1": "85 psi"
+  },
+  {
+    "modelo": "Up!",
+    "versao": "Up! Move 175/70R14 84T 2014/2015",
+    "d0": "29 psi",
+    "t0": "26 psi",
+    "d1": "32 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": 460,
+    "versao": "Todas",
+    "d0": "30 psi",
+    "t0": "27 psi",
+    "d1": "30 psi",
+    "t1": "30 psi"
+  },
+  {
+    "modelo": 850,
+    "versao": "850 2.4 – Pneus 195/60R15",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "33 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": 850,
+    "versao": "850 2.4 – Pneus 205/55R15",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "33 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": 850,
+    "versao": "850 2.3 Turbo R – Pneus 205/45R17",
+    "d0": "41 psi",
+    "t0": "39 psi",
+    "d1": "42 psi",
+    "t1": "48 psi"
+  },
+  {
+    "modelo": 850,
+    "versao": "850 2.3 Turbo T – Pneus 205/55R15",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "35 psi",
+    "t1": "41 psi"
+  },
+  {
+    "modelo": 960,
+    "versao": "Todas",
+    "d0": "28 psi",
+    "t0": "28 psi",
+    "d1": "30 psi",
+    "t1": "38 psi"
+  },
+  {
+    "modelo": "S70",
+    "versao": "S70 Pneus Aro 15",
+    "d0": "32 psi",
+    "t0": "29 psi",
+    "d1": "33 psi",
+    "t1": "36 psi"
+  },
+  {
+    "modelo": "S70",
+    "versao": "S70 Pneus Aros 16",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "S70",
+    "versao": "S70 Pneus Aros 17",
+    "d0": "32 psi",
+    "t0": "30 psi",
+    "d1": "33 psi",
+    "t1": "33 psi"
+  },
+  {
+    "modelo": "XC60",
+    "versao": "XC60 255 /65R17",
+    "d0": "35 psi",
+    "t0": "35 psi",
+    "d1": "35 psi",
+    "t1": "35 psi"
+  },
+  {
+    "modelo": "C30",
+    "versao": "C30 T5 205/50R17 93V 2009",
+    "d0": "35 psi",
+    "t0": "32 psi",
+    "d1": "36 psi",
+    "t1": "36 psi"
+  }
+]
