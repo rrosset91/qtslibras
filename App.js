@@ -4,6 +4,7 @@ import {StyleSheet, Text, View} from 'react-native'
 import {Picker} from '@react-native-picker/picker'
 import {useState} from 'react'
 import {useFonts, Jost_400Regular} from '@expo-google-fonts/jost'
+import LbsInfo from './components/LbsInfo'
 const CARS_BRANDS = require('./assets/Marcas.json')
 const CARS_MODELS = require('./assets/Modelos.json')
 const CARS_VERSIONS = require('./assets/Versoes.json')
@@ -15,6 +16,8 @@ export default function App() {
   let resetOptions = () => {
     setShowVersions(false)
     setShowModels(false)
+    setShowInfos(false)
+    setVersionInfos('')
     setFilteredModels([])
     setAvailableVersions([])
     setSelectedVersion('')
@@ -28,8 +31,10 @@ export default function App() {
   let [selectedVersion, setSelectedVersion] = useState('')
   let [filteredModels, setFilteredModels] = useState()
   let [versionsOptions, setAvailableVersions] = useState()
+  let [versionInfos, setVersionInfos] = useState()
   let [showVersions, setShowVersions] = useState()
   let [showModels, setShowModels] = useState()
+  let [showInfos, setShowInfos] = useState(false)
 
   if (!fontsLoaded) {
     return <AppLoading />
@@ -109,8 +114,14 @@ export default function App() {
               style={styles.picker}
               onValueChange={(itemVersion, itemIndex) => {
                 setSelectedVersion(itemVersion)
-                console.log(itemVersion)
-                console.log(itemIndex)
+                let versionInformation = versionsOptions[Number(itemIndex - 1)]
+                setVersionInfos(JSON.stringify(versionInformation))
+                if (
+                  itemVersion != undefined &&
+                  itemVersion != 'Escolha uma versão...'
+                ) {
+                  setShowInfos(true)
+                }
               }}
             >
               <Picker.Item label={'Escolha uma versão...'} value={undefined} />
@@ -126,6 +137,7 @@ export default function App() {
             </Picker>
           ) : null}
         </View>
+        {showInfos ? <LbsInfo values={versionInfos}></LbsInfo> : null}
       </View>
     )
   }
